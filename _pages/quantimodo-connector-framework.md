@@ -1,7 +1,7 @@
 ---
 ID: 19104
 post_title: QuantiModo Connector Framework
-author: Daniel Feinberg
+author: mikepsinn
 post_date: 2015-10-22 10:27:26
 post_excerpt: ""
 layout: page
