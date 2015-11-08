@@ -6,7 +6,7 @@ post_date: 2015-10-22 10:27:26
 post_excerpt: ""
 layout: page
 permalink: >
-  https://quantimo.do/quantimodo-connector-framework/
+  https://quantimo.do/services/quantimodo-connector-framework/
 published: true
 slide_template:
   - ""
