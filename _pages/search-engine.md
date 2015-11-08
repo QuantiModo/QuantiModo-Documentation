@@ -5,7 +5,8 @@ author: Daniel Feinberg
 post_date: 2015-10-30 15:05:38
 post_excerpt: ""
 layout: page
-permalink: https://quantimo.do/search-engine/
+permalink: >
+  https://quantimo.do/services/search-engine/
 published: true
 slide_template:
   - ""
