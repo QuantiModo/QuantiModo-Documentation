@@ -1,7 +1,7 @@
 ---
 ID: 19086
 post_title: Analytics Engine
-author: Daniel Feinberg
+author: mikepsinn
 post_date: 2015-10-22 09:42:08
 post_excerpt: ""
 layout: page
