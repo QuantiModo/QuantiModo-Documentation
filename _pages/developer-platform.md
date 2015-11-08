@@ -1,7 +1,7 @@
 ---
 ID: 19495
 post_title: Developer Platform
-author: Daniel Feinberg
+author: mikepsinn
 post_date: 2015-10-30 12:25:18
 post_excerpt: ""
 layout: page
