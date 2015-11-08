@@ -1,7 +1,7 @@
 ---
 ID: 6114
 post_title: Mission Statement
-author: fehim
+author: mikepsinn
 post_date: 2014-06-19 15:11:57
 post_excerpt: ""
 layout: page
@@ -48,7 +48,7 @@ page_options_titlebar_cta_text:
   - ""
   - ""
 slide_template:
-  - default
+  - ""
 sbg_selected_sidebar:
   - 'a:1:{i:0;s:1:"0";}'
 sbg_selected_sidebar_replacement:
