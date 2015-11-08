@@ -5,10 +5,11 @@ author: Daniel Feinberg
 post_date: 2015-11-02 11:17:51
 post_excerpt: ""
 layout: page
-permalink: https://quantimo.do/demo-request/
+permalink: >
+  https://quantimo.do/research-platform/demo-request/
 published: true
 slide_template:
-  - default
+  - ""
 sbg_selected_sidebar:
   - 'a:1:{i:0;s:1:"0";}'
 sbg_selected_sidebar_replacement:
