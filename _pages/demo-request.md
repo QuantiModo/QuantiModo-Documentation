@@ -6,7 +6,7 @@ post_date: 2015-11-02 11:17:51
 post_excerpt: ""
 layout: page
 permalink: >
-  https://quantimo.do/research-platform/demo-request/
+  https://quantimo.do/services/research-platform/demo-request/
 published: true
 slide_template:
   - ""

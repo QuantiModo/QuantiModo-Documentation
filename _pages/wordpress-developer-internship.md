@@ -6,7 +6,7 @@ post_date: 2015-08-30 00:49:59
 post_excerpt: ""
 layout: page
 permalink: >
-  https://quantimo.do/internships/wordpress-developer-internship/
+  https://quantimo.do/organization/internships/wordpress-developer-internship/
 published: true
 slide_template:
   - ""

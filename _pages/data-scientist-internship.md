@@ -6,7 +6,7 @@ post_date: 2015-08-30 00:56:07
 post_excerpt: ""
 layout: page
 permalink: >
-  https://quantimo.do/internships/data-scientist-internship/
+  https://quantimo.do/organization/internships/data-scientist-internship/
 published: true
 slide_template:
   - ""

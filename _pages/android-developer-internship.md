@@ -6,7 +6,7 @@ post_date: 2015-08-30 00:59:10
 post_excerpt: ""
 layout: page
 permalink: >
-  https://quantimo.do/internships/android-developer-internship/
+  https://quantimo.do/organization/internships/android-developer-internship/
 published: true
 slide_template:
   - ""

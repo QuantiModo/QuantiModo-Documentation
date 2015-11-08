@@ -6,7 +6,7 @@ post_date: 2015-08-30 00:45:11
 post_excerpt: ""
 layout: page
 permalink: >
-  https://quantimo.do/internships/phpjavascript-web-developer-internship/
+  https://quantimo.do/organization/internships/phpjavascript-web-developer-internship/
 published: true
 slide_template:
   - ""

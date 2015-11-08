@@ -6,7 +6,7 @@ post_date: 2015-08-30 01:00:28
 post_excerpt: ""
 layout: page
 permalink: >
-  https://quantimo.do/internships/php-back-end-developer-internship/
+  https://quantimo.do/organization/internships/php-back-end-developer-internship/
 published: true
 slide_template:
   - ""

@@ -6,7 +6,7 @@ post_date: 2015-10-12 14:50:27
 post_excerpt: ""
 layout: page
 permalink: >
-  https://quantimo.do/research-platform/research-custom-development/
+  https://quantimo.do/services/research-platform/research-custom-development/
 published: true
 slide_template:
   - default

@@ -6,7 +6,7 @@ post_date: 2015-08-30 01:08:29
 post_excerpt: ""
 layout: page
 permalink: >
-  https://quantimo.do/internships/director-of-public-relations-internship/
+  https://quantimo.do/organization/internships/director-of-public-relations-internship/
 published: true
 slide_template:
   - default

@@ -6,7 +6,7 @@ post_date: 2015-10-13 13:28:26
 post_excerpt: ""
 layout: page
 permalink: >
-  https://quantimo.do/research-platform/irb-research/
+  https://quantimo.do/services/research-platform/irb-research/
 published: true
 slide_template:
   - default

@@ -6,7 +6,7 @@ post_date: 2015-08-30 01:02:29
 post_excerpt: ""
 layout: page
 permalink: >
-  https://quantimo.do/internships/front-end-designerdeveloper-internship/
+  https://quantimo.do/organization/internships/front-end-designerdeveloper-internship/
 published: true
 slide_template:
   - default
