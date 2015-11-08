@@ -1,7 +1,7 @@
 ---
 ID: 18803
 post_title: QuantiModo Sync For Android
-author: Daniel Feinberg
+author: mikepsinn
 post_date: 2015-10-20 14:48:46
 post_excerpt: ""
 layout: page
