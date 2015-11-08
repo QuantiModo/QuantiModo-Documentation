@@ -1,14 +1,14 @@
 ---
 ID: 18551
 post_title: Services
-author: joahna
+author: mikepsinn
 post_date: 2015-10-14 19:56:51
 post_excerpt: ""
 layout: page
 permalink: https://quantimo.do/services/
 published: true
 slide_template:
-  - default
+  - ""
 sbg_selected_sidebar:
   - 'a:1:{i:0;s:1:"0";}'
 sbg_selected_sidebar_replacement:
