@@ -8,7 +8,7 @@ post_date: 2015-10-26 16:39:51
 post_excerpt: ""
 layout: page
 permalink: >
-  https://quantimo.do/developer-start-here/
+  https://quantimo.do/developer-platform/developer-start-here/
 published: true
 slide_template:
   - ""
