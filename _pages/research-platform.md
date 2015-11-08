@@ -1,7 +1,7 @@
 ---
 ID: 18418
 post_title: Research Platform
-author: Daniel Feinberg
+author: mikepsinn
 post_date: 2015-10-12 11:25:09
 post_excerpt: ""
 layout: page
