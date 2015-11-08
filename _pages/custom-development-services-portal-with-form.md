@@ -6,10 +6,10 @@ post_date: 2015-10-29 16:09:31
 post_excerpt: ""
 layout: page
 permalink: >
-  https://quantimo.do/custom-development-services-portal-with-form/
+  https://quantimo.do/services/custom-development-services-portal-with-form/
 published: true
 slide_template:
-  - default
+  - ""
 sbg_selected_sidebar:
   - 'a:1:{i:0;s:1:"0";}'
 sbg_selected_sidebar_replacement:
