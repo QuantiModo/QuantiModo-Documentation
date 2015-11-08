@@ -1,7 +1,7 @@
 ---
 ID: 19578
 post_title: Research Platform Demo Request
-author: Daniel Feinberg
+author: mikepsinn
 post_date: 2015-11-02 11:17:51
 post_excerpt: ""
 layout: page
