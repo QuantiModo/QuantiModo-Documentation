@@ -1,7 +1,7 @@
 ---
 ID: 18493
 post_title: HIPAA Security
-author: Daniel Feinberg
+author: mikepsinn
 post_date: 2015-10-14 12:59:38
 post_excerpt: ""
 layout: page
@@ -9,7 +9,7 @@ permalink: >
   https://quantimo.do/services/research-platform/research-custom-development/hipaa-security/
 published: true
 slide_template:
-  - default
+  - ""
 sbg_selected_sidebar:
   - 'a:1:{i:0;s:1:"0";}'
 sbg_selected_sidebar_replacement:
