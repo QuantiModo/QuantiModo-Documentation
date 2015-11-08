@@ -5,7 +5,8 @@ author: ""
 post_date: 2013-09-30 04:23:28
 post_excerpt: ""
 layout: page
-permalink: https://quantimo.do/activity-streams/
+permalink: >
+  https://quantimo.do/groups/activity-streams/
 published: true
 page_options_show_breadcrumbs:
   - "-1"
