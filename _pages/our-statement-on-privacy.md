@@ -6,10 +6,10 @@ post_date: 2015-10-13 16:04:14
 post_excerpt: ""
 layout: page
 permalink: >
-  https://quantimo.do/our-statement-on-privacy/
+  https://quantimo.do/organization/our-statement-on-privacy/
 published: true
 slide_template:
-  - default
+  - ""
 sbg_selected_sidebar:
   - 'a:1:{i:0;s:1:"0";}'
 sbg_selected_sidebar_replacement:
