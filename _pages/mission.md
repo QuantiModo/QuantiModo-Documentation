@@ -1,7 +1,7 @@
 ---
 ID: 18971
 post_title: Mission
-author: Daniel Feinberg
+author: mikepsinn
 post_date: 2015-10-21 16:30:06
 post_excerpt: ""
 layout: page
