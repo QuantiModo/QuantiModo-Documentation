@@ -1,14 +1,17 @@
 ---
 ID: 19268
-post_title: Start Here
+post_title: >
+  Getting Started With the QuantiModo
+  Platform
 author: mikepsinn
 post_date: 2015-10-26 16:39:51
 post_excerpt: ""
 layout: page
-permalink: https://quantimo.do/start-here/
+permalink: >
+  https://quantimo.do/developer-start-here/
 published: true
 slide_template:
-  - default
+  - ""
 sbg_selected_sidebar:
   - 'a:1:{i:0;s:1:"0";}'
 sbg_selected_sidebar_replacement:
