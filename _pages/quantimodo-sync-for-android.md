@@ -6,7 +6,7 @@ post_date: 2015-10-20 14:48:46
 post_excerpt: ""
 layout: page
 permalink: >
-  https://quantimo.do/quantimodo-sync-for-android/
+  https://quantimo.do/quantiverse/quantimodo-sync-for-android/
 published: true
 slide_template:
   - ""
