@@ -5,7 +5,8 @@ author: ""
 post_date: 2013-10-28 00:42:39
 post_excerpt: ""
 layout: page
-permalink: https://quantimo.do/advisory-board/
+permalink: >
+  https://quantimo.do/organization/advisory-board/
 published: true
 page_options_show_breadcrumbs:
   - "-1"
