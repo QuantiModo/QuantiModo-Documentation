@@ -5,10 +5,11 @@ author: mikepsinn
 post_date: 2015-08-30 00:27:14
 post_excerpt: ""
 layout: page
-permalink: https://quantimo.do/internships/
+permalink: >
+  https://quantimo.do/organization/internships/
 published: true
 slide_template:
-  - default
+  - ""
 sbg_selected_sidebar:
   - 'a:1:{i:0;s:1:"0";}'
 sbg_selected_sidebar_replacement:
