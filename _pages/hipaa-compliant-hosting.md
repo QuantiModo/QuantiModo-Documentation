@@ -1,7 +1,7 @@
 ---
 ID: 19488
 post_title: HIPAA Compliant Hosting
-author: Daniel Feinberg
+author: mikepsinn
 post_date: 2015-10-30 12:13:38
 post_excerpt: ""
 layout: page
