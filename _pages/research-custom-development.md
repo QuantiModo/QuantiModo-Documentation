@@ -1,7 +1,7 @@
 ---
 ID: 18415
 post_title: Research Custom Development
-author: Daniel Feinberg
+author: mikepsinn
 post_date: 2015-10-12 14:50:27
 post_excerpt: ""
 layout: page
@@ -9,7 +9,7 @@ permalink: >
   https://quantimo.do/services/research-platform/research-custom-development/
 published: true
 slide_template:
-  - default
+  - ""
 sbg_selected_sidebar:
   - 'a:1:{i:0;s:1:"0";}'
 sbg_selected_sidebar_replacement:
