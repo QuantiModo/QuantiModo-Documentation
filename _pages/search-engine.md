@@ -1,7 +1,7 @@
 ---
 ID: 19529
 post_title: Predictor/Outcome Search Engine
-author: Daniel Feinberg
+author: mikepsinn
 post_date: 2015-10-30 15:05:38
 post_excerpt: ""
 layout: page
