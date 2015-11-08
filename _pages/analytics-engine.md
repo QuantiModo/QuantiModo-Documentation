@@ -5,10 +5,11 @@ author: Daniel Feinberg
 post_date: 2015-10-22 09:42:08
 post_excerpt: ""
 layout: page
-permalink: https://quantimo.do/analytics-engine/
+permalink: >
+  https://quantimo.do/services/analytics-engine/
 published: true
 slide_template:
-  - default
+  - ""
 sbg_selected_sidebar:
   - 'a:1:{i:0;s:1:"0";}'
 sbg_selected_sidebar_replacement:
