@@ -24,18 +24,18 @@ sbg_selected_sidebar_replacement:
 
 <p style="text-align: center;">
   <span style="color: #ffffff;">Get started using our Android development platform</span>
-</p> [/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][kleo_icon icon="desktop" icon_size="4x" href="https://developer.quantimo.do/documentation/getting-started-web/" target="\_blank"][vc\_column_text] 
+</p> [/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][kleo_icon icon="desktop" icon_size="4x" href="https://github.com/Abolitionist-Project/QuantiModo-WordPress-Plugin/blob/develop/README.md" target="\_blank"][vc\_column_text] 
 
 <h2 style="text-align: center;">
-  <span style="color: #ffffff;"><a style="color: #ffffff;" href="https://developer.quantimo.do/documentation/getting-started-web/">Website Plugin</a></span>
+  <span style="color: #ffffff;"><a style="color: #ffffff; text-decoration: underline;" href="https://github.com/Abolitionist-Project/QuantiModo-WordPress-Plugin/blob/develop/README.md" target="_blank">WordPress Plugin</a></span>
 </h2> [/vc_column_text][vc_column_text] 
 
 <p style="text-align: center;">
   <span style="color: #ffffff;">Set up a developer account to gain access to our revolutionary interface</span>
-</p> [/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][kleo_icon icon="exchange" icon_size="4x" href="https://quantimo.do/api/docs/index.html" target="\_blank"][vc\_column_text] 
+</p> [/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][kleo_icon icon="exchange" icon_size="4x" href="https://app.quantimo.do/api/docs/html" target="\_blank"][vc\_column_text] 
 
 <h2 style="text-align: center;">
-  <span style="color: #ffffff;"><a style="color: #ffffff;" href="https://quantimo.do/api/docs/index.html">API Explorer</a></span>
+  <span style="color: #ffffff;"><a style="color: #ffffff;" href="https://app.quantimo.do/api/docs/index.html" target="_blank">API Explorer</a></span>
 </h2> [/vc_column_text][vc_column_text] 
 
 <p style="text-align: center;">
