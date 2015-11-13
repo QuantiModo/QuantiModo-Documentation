@@ -24,7 +24,7 @@ sbg_selected_sidebar_replacement:
 
 <p style="text-align: center;">
   <span style="color: #ffffff;">Get started using our Android development platform</span>
-</p> [/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][kleo_icon icon="desktop" icon_size="4x" href="https://github.com/Abolitionist-Project/QuantiModo-WordPress-Plugin/blob/develop/README.md" target="\_blank"][vc\_column_text] 
+</p> [/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][kleo_icon icon="wordpress-3" icon_size="4x" href="https://github.com/Abolitionist-Project/QuantiModo-WordPress-Plugin/blob/develop/README.md" target="\_blank"][vc\_column_text] 
 
 <h2 style="text-align: center;">
   <span style="color: #ffffff;"><a style="color: #ffffff;" href="https://github.com/Abolitionist-Project/QuantiModo-WordPress-Plugin/blob/develop/README.md" target="_blank">WordPress</a><a style="color: #ffffff;" href="https://github.com/Abolitionist-Project/QuantiModo-WordPress-Plugin/blob/develop/README.md" target="_blank"> Plugin</a></span>
