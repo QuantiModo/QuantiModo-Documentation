@@ -10,6 +10,8 @@ permalink: >
 published: true
 slide_template:
   - default
+sharing_disabled:
+  - "1"
 sbg_selected_sidebar:
   - 'a:1:{i:0;s:1:"0";}'
 sbg_selected_sidebar_replacement:
