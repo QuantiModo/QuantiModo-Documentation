@@ -10,8 +10,6 @@ permalink: >
 published: true
 slide_template:
   - default
-sharing_disabled:
-  - "1"
 sbg_selected_sidebar:
   - 'a:1:{i:0;s:1:"0";}'
 sbg_selected_sidebar_replacement:
@@ -34,7 +32,7 @@ sbg_selected_sidebar_replacement:
 
 <p style="text-align: center;">
   <span style="color: #ffffff;">Set up a developer account to gain access to our revolutionary interface</span>
-</p> [/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][kleo_icon icon="exchange" icon_size="4x" href="https://app.quantimo.do/api/docs/html" target="\_blank"][vc\_column_text] 
+</p> [/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][kleo_icon icon="exchange" icon_size="4x" href="https://app.quantimo.do/api/docs" target="\_blank"][vc\_column_text] 
 
 <h2 style="text-align: center;">
   <span style="color: #ffffff;"><a style="color: #ffffff;" href="https://app.quantimo.do/api/docs/index.html" target="_blank">API Explorer</a></span>
