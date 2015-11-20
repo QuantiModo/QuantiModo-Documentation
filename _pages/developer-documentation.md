@@ -43,7 +43,7 @@ sbg_selected_sidebar_replacement:
   <span style="color: #ffffff;">Use our API to build your next app and begin seamlessly collecting, aggregating, and analyzing your users data. </span>
 </p> [/vc_column_text][/vc_column][/vc_row][vc_row text_align="center" vertical_align="yes"][vc_column width="1/2"][vc_column_text] 
 
-## QM Connector Framework [/vc_column_text][vc_column_text] 
+## Aggregate Your Users Data [/vc_column_text][vc_column_text] 
 
 <p class="p1">
   <span class="s1">QuantiModo's Connector Framework is a simple and easy way to sync Apps and Devices. We allow intervals ranging from instantaneous to weekly for automatic syncing of any apps the participant uses.</span>
@@ -57,7 +57,7 @@ sbg_selected_sidebar_replacement:
   <span class="s1">We developed an application programming interface (API) for receiving and sharing data, a spreadsheet upload/import module, a connector framework to pull data from existing third party API’s, and software development kits (SDK’s).</span>
 </p> [/vc_column_text][kleo_button title="Tell Us About Your Project" href="https://quantimo.do/custom-development-services-portal-with-form/" style="custom" size="lg" icon="0" custom_background="#ff6e00" custom_text="#ffffff"][/vc_column][vc_column width="1/2"][vc_single_image image="19107" img_size="large" animation="animate-when-almost-visible" css_animation="left-to-right"][/vc_column][/vc_row][vc_row text_align="center" vertical_align="yes"][vc_column width="1/2"][vc_single_image image="19082" img_size="large" alignment="center" animation="animate-when-almost-visible" css_animation="el-appear"][/vc_column][vc_column width="1/2"][vc_column_text] 
 
-## QM Analytics Engine [/vc_column_text][vc_column_text] 
+## Access to the QM Analytics Engine [/vc_column_text][vc_column_text] 
 
 <p class="p1">
   <span class="s1">The QM Analytics Engine mines data using powerful, proprietary algorithms which perform:</span>
