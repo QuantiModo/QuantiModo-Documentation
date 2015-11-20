@@ -17,7 +17,7 @@ sbg_selected_sidebar_replacement:
 ---
 [vc_row text_align="center" text_color="#ffffff" type="image" padding_top="40px" padding_bottom="90px" border="none" bg_image="19153"][vc_column width="1/2"][kleo_gap][vc_custom_heading text="Getting Started" font_container="tag:h2|font_size:68|text_align:center|color:%23ffffff|line_height:80px" google_fonts="font_family:Roboto%20Condensed%3A300%2C300italic%2Cregular%2Citalic%2C700%2C700italic|font_style:400%20regular%3A400%3Anormal"][kleo_gap][vc_column_text lead="yes"] <p style="text-align: center;">
   We develop your app from start to finish, successfully navigating the complexities of the mobile-Health sphere.
-</p> [/vc_column_text][/vc_column][vc_column width="1/2"][kleo_particles][kleo_gap size="143px"][kleo_button title="First Get Started By Registering In Our Developer Portal " href="https://admin.quantimo.do/register" target="\_blank" style="custom" size="lg" special="yes" icon="edit" custom\_background="#ff6e00" custom_text="#ffffff"][/vc_column][/vc_row][vc_row text_align="center" vertical_align="yes"][vc_column width="1/3"][kleo_icon icon="0"][vc_column_text] 
+</p> [/vc_column_text][/vc_column][vc_column width="1/2"][kleo_particles][kleo_gap size="143px"][kleo_button title="First Get Started By Registering In Our Developer Portal " href="https://admin.quantimo.do/register" target="\_blank" style="custom" size="lg" special="yes" icon="edit" custom\_background="#ff6e00" custom_text="#ffffff"][/vc_column][/vc_row][vc_row text_align="center" vertical_align="yes"][vc_column width="1/3"][kleo_icon icon="android-1" href="https://github.com/QuantiModo/QuantiModo-SDK-Android/blob/develop/README.md" target="\_blank"][vc\_column_text] 
 
 <h2 style="text-align: center;">
   <span style="color: #ffffff;"><a style="color: #ffffff;" href="https://github.com/QuantiModo/QuantiModo-SDK-Android/blob/develop/README.md">Android</a></span>
@@ -25,7 +25,7 @@ sbg_selected_sidebar_replacement:
 
 <p style="text-align: center;">
   <span style="color: #ffffff;">Get started using our Android development platform</span>
-</p> [/vc_column_text][/vc_column][vc_column width="1/3"][kleo_icon icon="0"][vc_column_text] 
+</p> [/vc_column_text][/vc_column][vc_column width="1/3"][kleo_icon icon="wordpress-3" href="https://github.com/Abolitionist-Project/QuantiModo-WordPress-Plugin/blob/develop/README.md" target="\_blank"][vc\_column_text] 
 
 <h2 style="text-align: center;">
   <span style="color: #ffffff;"><a style="color: #ffffff;" href="https://github.com/Abolitionist-Project/QuantiModo-WordPress-Plugin/blob/develop/README.md" target="_blank">WordPress</a><a style="color: #ffffff;" href="https://github.com/Abolitionist-Project/QuantiModo-WordPress-Plugin/blob/develop/README.md" target="_blank"> Plugin</a></span>
@@ -33,7 +33,7 @@ sbg_selected_sidebar_replacement:
 
 <p style="text-align: center;">
   <span style="color: #ffffff;">Set up a developer account to gain access to our revolutionary interface</span>
-</p> [/vc_column_text][/vc_column][vc_column width="1/3"][kleo_icon icon="0"][vc_column_text] 
+</p> [/vc_column_text][/vc_column][vc_column width="1/3"][kleo_icon icon="exchange" href="https://app.quantimo.do/api/docs" target="\_blank"][vc\_column_text] 
 
 <h2 style="text-align: center;">
   <span style="color: #ffffff;"><a style="color: #ffffff;" href="https://app.quantimo.do/api/docs/index.html" target="_blank">API Explorer</a></span>
