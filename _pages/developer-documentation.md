@@ -15,9 +15,8 @@ sbg_selected_sidebar:
 sbg_selected_sidebar_replacement:
   - 'a:1:{i:0;s:12:"Documenation";}'
 ---
-[vc_row text_align="center" text_color="#ffffff" type="image" padding_top="40px" padding_bottom="90px" border="none" bg_image="19153"][vc_column width="1/2"][kleo_gap][vc_custom_heading text="Getting Started" font_container="tag:h2|font_size:68|text_align:center|color:%23ffffff|line_height:80px" google_fonts="font_family:Roboto%20Condensed%3A300%2C300italic%2Cregular%2Citalic%2C700%2C700italic|font_style:400%20regular%3A400%3Anormal"][kleo_gap][vc_column_text lead="yes"] <p style="text-align: center;">
-  We develop your app from start to finish, successfully navigating the complexities of the mobile-Health sphere.
-</p> [/vc_column_text][/vc_column][vc_column width="1/2"][kleo_particles][kleo_gap size="143px"][kleo_button title="First Get Started By Registering In Our Developer Portal " href="https://admin.quantimo.do/register" target="\_blank" style="custom" size="lg" special="yes" icon="edit" custom\_background="#ff6e00" custom_text="#ffffff"][/vc_column][/vc_row][vc_row text_align="center" vertical_align="yes"][vc_column width="1/3"][kleo_icon icon="android-1" href="https://github.com/QuantiModo/QuantiModo-SDK-Android/blob/develop/README.md" target="\_blank"][vc\_column_text] 
+[vc_row text_align="center" text_color="#ffffff" type="image" bg_position="bottom" bg_position_horizontal="center" padding_top="100px" padding_bottom="100px" padding_left="0px" padding_right="0px" border="none" bg_image="19153"][vc_column][vc_custom_heading text="Getting Started" font_container="tag:h2|font_size:90|text_align:center|color:%23ffffff" google_fonts="font_family:Roboto%20Condensed%3A300%2C300italic%2Cregular%2Citalic%2C700%2C700italic|font_style:400%20regular%3A400%3Anormal"][kleo_gap size="50px"][kleo_button title="First Get Started By Registering in Our Developer Portal" href="https://admin.quantimo.do/register" target="\_blank" style="custom" size="lg" special="yes" icon="bullhorn" custom\_background="#ff6e00" custom_text="#ffffff"][kleo_gap size="40px"][vc_column_text] 
+# Then chose your platform: [/vc_column_text][vc_row_inner][vc_column_inner width="1/3"][kleo_icon icon="android-1" icon_size="4x" href="https://github.com/QuantiModo/QuantiModo-SDK-Android/blob/develop/README.md" target="\_blank"][vc\_column_text] 
 
 <h2 style="text-align: center;">
   <span style="color: #ffffff;"><a style="color: #ffffff;" href="https://github.com/QuantiModo/QuantiModo-SDK-Android/blob/develop/README.md">Android</a></span>
@@ -25,7 +24,7 @@ sbg_selected_sidebar_replacement:
 
 <p style="text-align: center;">
   <span style="color: #ffffff;">Get started using our Android development platform</span>
-</p> [/vc_column_text][/vc_column][vc_column width="1/3"][kleo_icon icon="wordpress-3" href="https://github.com/Abolitionist-Project/QuantiModo-WordPress-Plugin/blob/develop/README.md" target="\_blank"][vc\_column_text] 
+</p> [/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][kleo_icon icon="wordpress-3" icon_size="4x" href="https://github.com/Abolitionist-Project/QuantiModo-WordPress-Plugin/blob/develop/README.md" target="\_blank"][vc\_column_text] 
 
 <h2 style="text-align: center;">
   <span style="color: #ffffff;"><a style="color: #ffffff;" href="https://github.com/Abolitionist-Project/QuantiModo-WordPress-Plugin/blob/develop/README.md" target="_blank">WordPress</a><a style="color: #ffffff;" href="https://github.com/Abolitionist-Project/QuantiModo-WordPress-Plugin/blob/develop/README.md" target="_blank"> Plugin</a></span>
@@ -33,7 +32,7 @@ sbg_selected_sidebar_replacement:
 
 <p style="text-align: center;">
   <span style="color: #ffffff;">Set up a developer account to gain access to our revolutionary interface</span>
-</p> [/vc_column_text][/vc_column][vc_column width="1/3"][kleo_icon icon="exchange" href="https://app.quantimo.do/api/docs" target="\_blank"][vc\_column_text] 
+</p> [/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][kleo_icon icon="exchange" icon_size="4x" href="https://app.quantimo.do/api/docs" target="\_blank"][vc\_column_text] 
 
 <h2 style="text-align: center;">
   <span style="color: #ffffff;"><a style="color: #ffffff;" href="https://app.quantimo.do/api/docs/index.html" target="_blank">API Explorer</a></span>
@@ -41,53 +40,8 @@ sbg_selected_sidebar_replacement:
 
 <p style="text-align: center;">
   <span style="color: #ffffff;">Use our API to build your next app and begin seamlessly collecting, aggregating, and analyzing your users data. </span>
-</p> [/vc_column_text][/vc_column][/vc_row][vc_row text_align="center" vertical_align="yes"][vc_column width="1/2"][vc_column_text] 
+</p> [/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row text_align="center" border="none"][vc_column][kleo_grid type="4" animation="yes" colored_icons="yes" bordered_icons="yes"][kleo_feature_item title="Add the SDK to Your App" icon="code" icon_size="big" icon_position="center"] Integration is easy with our libraries in Ruby, PHP, Java, Android, iOS, and Windows. [/kleo_feature_item][kleo_feature_item title="Users Connect Accounts" icon="login" icon_size="big" icon_position="center"] By embedding our authorization popup, users are able to share data from a wide array of life-tracking apps and devices. [/kleo_feature_item][kleo_feature_item title="Correlational Analysis" icon="gauge" icon_size="big" icon_position="center"] We analyze the data to see what hidden factors are most influencing the thing your users want to improve. [/kleo_feature_item][kleo_feature_item title="Present the Data" icon="chart-bar" icon_size="big" icon_position="center"] You can then present the raw and analyzed data to your users to help them perfect their lives! [/kleo_feature_item][/kleo_grid][kleo_divider text="QuantiModo allows you to import your users' data from a wide array of applications and devices."][kleo_gap size="30px"][kleo_clients number="20"][/vc_column][/vc_row][vc_row text_align="center" section_type="alternate" padding_top="100"][vc_column][kleo_divider type="long" text="Who We Help"][kleo_gap size="40px"][kleo_grid type="3" animation="yes"][kleo_feature_item title="Healthcare Providers" icon="hospital" icon_size="big"] Having access to a dashboard visualizing all factors in a patient’s health can then help doctors formulate a far more informed a care plan. [/kleo_feature_item][kleo_feature_item title="Developers" icon="terminal" icon_size="big"] App creators and quantified self start-ups can save months of development time and tens of thousands of dollars by using our platform instead of reinventing the wheel. [/kleo_feature_item][kleo_feature_item title="Researchers" icon="graduation-cap" icon_size="big"] Instead of spending months gathering, cleaning, and analyzing data, create studies on our platform and enable users to share their preexisting data with you. Then we mine the data to quantify the relationships of interest. [/kleo_feature_item][/kleo_grid][kleo_grid type="3" animation="yes"][kleo_feature_item title="Telemedicine" icon="desktop" icon_size="big"] Insights from self-tracking data can bring telemedicine into the mainstream. [/kleo_feature_item][kleo_feature_item title="Corporate Wellness" icon="equalizer"] Keep employees happy, healthy and engaged by creating an effective wellness program with QuantiModo.ges. [/kleo_feature_item][/kleo_grid][vc_row_inner][vc_column_inner width="1/3"] [/vc_column_inner][vc_column_inner width="1/3"][kleo_button title="Try it for free!" href="https://admin.quantimo.do/register" target="\_blank" style="highlight" size="lg" icon="0"][/vc\_column_inner][vc_column_inner width="1/3"] [/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row text_align="center" padding_top="60" padding_bottom="80" border="none"][vc_column][vc_column_text] 
 
-## Aggregate Your Users Data [/vc_column_text][vc_column_text] 
-
-<p class="p1">
-  <span class="s1">QuantiModo's Connector Framework is a simple and easy way to sync Apps and Devices. We allow intervals ranging from instantaneous to weekly for automatic syncing of any apps the participant uses.</span>
-</p>
-
-<p class="p1">
-  <span class="s1">The API connector framework will allow ongoing regular import of user data after a single user authorization.  SDK’s will enable developers to implement easy automatic sharing options in their applications. An increase in the quantity of data will produce a proportional increase the number of clinical discoveries made.</span>
-</p>
-
-<p class="p1">
-  <span class="s1">We developed an application programming interface (API) for receiving and sharing data, a spreadsheet upload/import module, a connector framework to pull data from existing third party API’s, and software development kits (SDK’s).</span>
-</p> [/vc_column_text][kleo_button title="Tell Us About Your Project" href="https://quantimo.do/custom-development-services-portal-with-form/" style="custom" size="lg" icon="0" custom_background="#ff6e00" custom_text="#ffffff"][/vc_column][vc_column width="1/2"][vc_single_image image="19107" img_size="large" animation="animate-when-almost-visible" css_animation="left-to-right"][/vc_column][/vc_row][vc_row text_align="center" vertical_align="yes"][vc_column width="1/2"][vc_single_image image="19082" img_size="large" alignment="center" animation="animate-when-almost-visible" css_animation="el-appear"][/vc_column][vc_column width="1/2"][vc_column_text] 
-
-## Access to the QM Analytics Engine [/vc_column_text][vc_column_text] 
-
-<p class="p1">
-  <span class="s1">The QM Analytics Engine mines data using powerful, proprietary algorithms which perform:</span>
-</p>
-
-<ul class="ul1">
-  <li class="li1">
-    <span class="s1">temporal precedence accounting</span>
-  </li>
-  <li class="li1">
-    <span class="s1">longitudinal data aggregation</span>
-  </li>
-  <li class="li1">
-    <span class="s1">erroneous data filtering</span>
-  </li>
-  <li class="li1">
-    <span class="s1">unit conversions</span>
-  </li>
-  <li class="li1">
-    <span class="s1">ingredient tagging</span>
-  </li>
-  <li class="li1">
-    <span class="s1">variable grouping</span>
-  </li>
-</ul>
-
-<p class="p1">
-  <span class="s1">All of this allows us to identify the strongest predictors of symptoms and quantify the likely effects of treatments and other factors.</span>
-</p> [/vc_column_text][kleo_button title="Tell Us About Your Project" href="https://quantimo.do/custom-development-services-portal-with-form/" target="\_blank" style="custom" size="lg" icon="0" custom\_background="#ff6e00" custom_text="#ffffff"][/vc_column][/vc_row][vc_row text_align="center" section_type="alternate" type="color" bg_color="#ffffff" padding_top="100"][vc_column][kleo_divider type="long" icon="0" text="Our Services"][kleo_gap size="50px"][kleo_grid type="3" animation="yes"][kleo_feature_item title="Coding in a Plethora of Languages" icon="chat-1"]We code in Android, iOS, Ionic, and Javascript (excelling in Laravel, Wordpress, and Slim). We have a diligent and professional team of coders in all the aforementioned with years of health application development experience.[/kleo_feature_item][kleo_feature_item title="Prototypes Pronto" icon="flash"]We strive to get you a working demo of your application as quickly as possible. We believe that an efficient prototyping stage enable us to make sure that every application is not just functional, but ideal for its purpose.[/kleo_feature_item][kleo_feature_item title="User Friendly" icon="paper-plane"]Our focus is on making sure the application is exactly you want. But, we also strive to ensure that users of often incredibly complex mHealth apps will be able to navigate swiftly through the interface.[/kleo_feature_item][/kleo_grid][kleo_grid type="3" animation="yes"][kleo_feature_item title="HIPAA Compliance" icon="hospital" icon_size="big"]We allow any company to create a fully HIPAA compliant app if desired. To learn more please click below: [kleo_button title="Learn More" href="https://www.quantimo.do/HIPAA-Security" style="default" size="" ][/kleo_feature_item][kleo_feature_item title="We Host For You" icon="coffee"]Any mHealth application you create on with our mobile or web application team can be hosted securely by Quantimodo allowing for a quick timeframe from development to the market.[/kleo_feature_item][kleo_feature_item title="Immediate Assistance " icon="users"]If at anytime you have a problem with your mobile or web application, our team is ready to assist with all bug fixes and data collection issues.[/kleo_feature_item][/kleo_grid][/vc_column][/vc_row][vc_row][vc_column][kleo_divider type="short" icon="0" text="Data Sources We Currently Import From"][kleo_gap size="40px"][kleo_clients animated="" number="20"][/vc_column][/vc_row][vc_row][vc_column][vc_column_text] 
-
-<h3 style="text-align: center;">
-  Check Out Our Previous Work:
-</h3> [/vc_column_text][kleo_portfolio item_count="28" filter="no" category="Quantiverse"][/vc_column][/vc_row][vc_column width="1/2"][/vc_column]
+<h1 style="text-align: center;">
+  Still Have Questions?
+</h1> [/vc_column_text][kleo_button title="Ask Us" href="http://help.quantimo.do" target="\_blank" style="custom" size="lg" icon="question" custom\_background="#43b5d8" custom_text="#ffffff"][/vc_column][/vc_row]
