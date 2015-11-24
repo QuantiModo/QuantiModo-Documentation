@@ -83,7 +83,7 @@ sbg_selected_sidebar_replacement:
 *   PureLife Energy Boost (Supplement)
 *   Vegetable Skillet Consumption     
 
-[<img class="alignnone wp-image-18832 size-full" src="http://res.cloudinary.com/hmj5zmqze/image/upload/v1447369913/TSriDoP_zmaedz.png" alt="TSriDoP" width="1370" height="868" />][1] [<img class="alignnone wp-image-6631 size-full" src="http://res.cloudinary.com/hmj5zmqze/image/upload/v1447370103/Predictors-of-Mood-in-Patient-Suffering-from-Inflammation-Mediated-Anhedonic-Depression_qquura.jpg" alt="Predictors of Mood in Patient Suffering from Inflammation-Mediated Anhedonic Depression" width="960" height="640" />][2] 
+[<img class="alignnone wp-image-18832 size-full" src="http://res.cloudinary.com/hmj5zmqze/image/upload/v1447369913/TSriDoP_zmaedz.png" alt="TSriDoP" width="1370" height="868" />][1]   
 ##  Participants
 
 *   Subject 1 
@@ -206,4 +206,3 @@ sbg_selected_sidebar_replacement:
 <img class="aligncenter wp-image-6237 size-large" src="https://qm.wp.uploads.s3.amazonaws.com/uploads/2014/07/Flow-Chart-for-Correlations-Analysis-Optimal-Daily-Values-1024x898.png" alt="Flow Chart for Correlations Analysis Optimal Daily Values" width="1024" height="898" />  
 
  [1]: http://res.cloudinary.com/hmj5zmqze/image/upload/v1447369913/TSriDoP_zmaedz.png
- [2]: http://res.cloudinary.com/hmj5zmqze/image/upload/v1447370103/Predictors-of-Mood-in-Patient-Suffering-from-Inflammation-Mediated-Anhedonic-Depression_qquura.jpg
