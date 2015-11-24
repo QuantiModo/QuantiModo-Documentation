@@ -81,9 +81,9 @@ sbg_selected_sidebar_replacement:
         *   Basis of Correlational Analysis: Absolute Value
         *   Method of Aggregation: Average
 *   PureLife Energy Boost (Supplement)
-*   Vegetable Skillet Consumption   [caption id="attachment_6218" align="aligncenter" width="800"]
+*   Vegetable Skillet Consumption     
 
-<img class="wp-image-6218" src="https://qm.wp.uploads.s3.amazonaws.com/uploads/2014/07/Sleep-and-Mood-Timeline-Graph-1024x524.png" alt="Sleep Efficiency and Mood Timeline Graph" width="800" height="410" /> Longitudinal Analysis of Sleep Efficiency and Mood Over Time[/caption]   <img class="aligncenter wp-image-6222 size-full" src="https://qm.wp.uploads.s3.amazonaws.com/uploads/2014/07/Sleep-and-Mood-Scatterplot.png" alt="Sleep Efficiency and Mood Scatterplot" width="805" height="429" /> 
+[<img class="alignnone wp-image-18832 size-full" src="http://res.cloudinary.com/hmj5zmqze/image/upload/v1447369913/TSriDoP_zmaedz.png" alt="TSriDoP" width="1370" height="868" />][1] [<img class="alignnone wp-image-6631 size-full" src="http://res.cloudinary.com/hmj5zmqze/image/upload/v1447370103/Predictors-of-Mood-in-Patient-Suffering-from-Inflammation-Mediated-Anhedonic-Depression_qquura.jpg" alt="Predictors of Mood in Patient Suffering from Inflammation-Mediated Anhedonic Depression" width="960" height="640" />][2] 
 ##  Participants
 
 *   Subject 1 
@@ -204,3 +204,6 @@ sbg_selected_sidebar_replacement:
 6.  Correlational Analysis - The correlation coefficient is determined for that pair array to identify which factors are most predictive of mood.
 
 <img class="aligncenter wp-image-6237 size-large" src="https://qm.wp.uploads.s3.amazonaws.com/uploads/2014/07/Flow-Chart-for-Correlations-Analysis-Optimal-Daily-Values-1024x898.png" alt="Flow Chart for Correlations Analysis Optimal Daily Values" width="1024" height="898" />  
+
+ [1]: http://res.cloudinary.com/hmj5zmqze/image/upload/v1447369913/TSriDoP_zmaedz.png
+ [2]: http://res.cloudinary.com/hmj5zmqze/image/upload/v1447370103/Predictors-of-Mood-in-Patient-Suffering-from-Inflammation-Mediated-Anhedonic-Depression_qquura.jpg
