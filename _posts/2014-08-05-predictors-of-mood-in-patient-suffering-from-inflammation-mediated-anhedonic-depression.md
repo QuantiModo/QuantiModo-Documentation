@@ -42,9 +42,9 @@ sbg_selected_sidebar_replacement:
 
 ## Research Question What factors are most predictive of mood in a subject suffering from inflammation-mediated anhedonic depression? 
 
-## Answer The most significant predictor of elevated mood included was sleep efficiency. 
+## Answer The most significant predictor of elevated mood was sleep efficiency. 
 
-## Participants This participant was a 34 year old caucasian male who has suffered from anhedonic depression for the last 20 years.  Additionally, this individual experiences from chronic inflammation resulting in muscular pain, psoriasis, and acne. This individual tracked his mood, diet, sleep, physical activity, blood pressure, medication intake, and symptoms for 24 months. 
+## Participants This participant was a 34 year old caucasian male who has suffered from anhedonic depression for the last 20 years.  Additionally, this individual experiences chronic inflammation resulting in muscular pain, psoriasis, and acne. This individual tracked his mood, diet, sleep, physical activity, blood pressure, medication intake, and symptoms for 24 months. 
 
 ## Results This analysis determined that the factors most predictive of positive mood: 
 
