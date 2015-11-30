@@ -38,68 +38,39 @@ sbg_selected_sidebar:
 sbg_selected_sidebar_replacement:
   - 'a:1:{i:0;s:1:"0";}'
 ---
+## 
+
+## Abstract A single subject measured many factors in his life using quantified self apps. These were analyzed to determine the largest predictor of changes in overall mood. It was determined sleep was the largest factor. This is likely because a lack of rest is known to cause irritability. 
+
+## Title Determining Factors That Have Strongest Predictor Relationship to Outcome of Mood. 
+
+## 
+
 ## Variable of Interest Overall Mood 
 
 ## Research Question What factors are most predictive of mood in a subject suffering from inflammation-mediated anhedonic depression? 
 
-## Answer The most significant predictor of elevated mood was sleep efficiency. 
+## Hypothesis Quality of sleep and physical activity will be the largest predictors of overall mood. 
 
-## Participants This participant was a 34 year old caucasian male who has suffered from anhedonic depression for the last 20 years.  Additionally, this individual experiences chronic inflammation resulting in muscular pain, psoriasis, and acne. This individual tracked his mood, diet, sleep, physical activity, blood pressure, medication intake, and symptoms for 24 months. 
+## Study Design N of 1 design, where one participant having met the criteria self-tracked data. 
 
-## Results This analysis determined that the factors most predictive of positive mood: 
+## Participants This participant was a 34 year old caucasian male who has suffered from anhedonic depression for the last 20 years.  Additionally, this individual experiences chronic inflammation resulting in muscular pain, psoriasis, and acne. This individual tracked his mood, diet, sleep, physical activity, blood pressure, medication intake, and symptoms for 24 months. Subject 1 
 
-*   Deep Sleep 
-    *   Pearson Correlation: 0.6552
-    *   1452 data points
-    *   Parameters 
-        *   Assumed Onset Delay = 0 Hours
-        *   Assumed Duration of Action  = 24 Hours
-        *   Basis of Correlational Analysis: Absolute Value
-        *   Method of Aggregation: Average
-*   Systolic Blood Pressure 
-    *   Pearson Correlation: 0.4645
-    *   108 data points
-    *   Parameters 
-        *   Assumed Onset Delay = 0 Hours
-        *   Assumed Duration of Action  = 1 Hour
-        *   Basis of Correlational Analysis: Absolute Value
-        *   Method of Aggregation: Average
-*   Calories Burned 
-    *   Pearson Correlation: 0.5261
-    *   1170 data points
-    *   Parameters 
-        *   Assumed Onset Delay = 0 Hours
-        *   Assumed Duration of Action  = 24 Hours
-        *   Basis of Correlational Analysis: Absolute Value
-        *   Method of Aggregation: Average
-*   Carbohydrate Intake 
-    *   Pearson Correlation: 0.5227
-    *   460 data points
-    *   Parameters 
-        *   Assumed Onset Delay = 0 Hours
-        *   Assumed Duration of Action  = 24 Hours
-        *   Basis of Correlational Analysis: Absolute Value
-        *   Method of Aggregation: Average
-*   PureLife Energy Boost (Supplement)
-*   Vegetable Skillet Consumption     
+*   User ID: 230
+*   Age: 34
+*   IQ:17
+*   Average Mood (PANAS): 41%
+*   Sex: Male
+*   Groups 
+    *   Inflammatory-mediated anhedonic depression
+    *   Caucasian
+    *   Acne
+    *   ADD
+    *   Depression
 
-[<img class="alignnone wp-image-18832 size-full" src="http://res.cloudinary.com/hmj5zmqze/image/upload/v1447369913/TSriDoP_zmaedz.png" alt="TSriDoP" width="1370" height="868" />][1]   
-##  Participants
+## Methods
 
-*   Subject 1 
-    *   User ID: 230
-    *   Age: 34
-    *   IQ:17
-    *   Average Mood (PANAS): 41%
-    *   Sex: Male
-    *   Groups 
-        *   Inflammatory-mediated anhedonic depression
-        *   Caucasian
-        *   Acne
-        *   ADD
-        *   Depression
-
-## Data Collection Methods
+#### Data Collection
 
 *   Sleep duration, schedule, and efficiency was tracked using: 
     *   The “Sleep as Android” mobile application
@@ -158,7 +129,7 @@ sbg_selected_sidebar_replacement:
     *   AppTracker for Android
     *   Rescuetime for Android
 
-## Data Integration
+#### Data Integration
 
 *   The *QuantiModo PHP Connector Framework* was used to import data from: 
     *   Fitbit
@@ -192,9 +163,9 @@ sbg_selected_sidebar_replacement:
     *   The QuantiModo Chrome extension
     *   QuantiModo for Android
 
-## Data Storage Data was stored in a MySQL relational database. 
+#### Data Storage Data was stored in a MySQL relational database. 
 
-## Data Analysis
+#### Data Analysis
 
 1.  Filtering - Time series measurements of hypothetical “cause” variables are filtered to remove erroneous values outside the minimum and maximum reasonable daily values defined by the user (or the default crowdsourced average user setting).
 2.  Time Shifting -  Mood data is shifted forward in time to compensate for  the estimated onset delay.
@@ -203,6 +174,49 @@ sbg_selected_sidebar_replacement:
 5.  Pairing - These aggregated “effect” measurements are paired with the “cause” measurements to produce an array.
 6.  Correlational Analysis - The correlation coefficient is determined for that pair array to identify which factors are most predictive of mood.
 
-<img class="aligncenter wp-image-6237 size-large" src="https://qm.wp.uploads.s3.amazonaws.com/uploads/2014/07/Flow-Chart-for-Correlations-Analysis-Optimal-Daily-Values-1024x898.png" alt="Flow Chart for Correlations Analysis Optimal Daily Values" width="1024" height="898" />  
+## Results This analysis determined that the factors most predictive of positive mood: 
+
+*   Deep Sleep 
+    *   Pearson Correlation: 0.6552
+    *   1452 data points
+    *   Parameters 
+        *   Assumed Onset Delay = 0 Hours
+        *   Assumed Duration of Action  = 24 Hours
+        *   Basis of Correlational Analysis: Absolute Value
+        *   Method of Aggregation: Average
+*   Systolic Blood Pressure 
+    *   Pearson Correlation: 0.4645
+    *   108 data points
+    *   Parameters 
+        *   Assumed Onset Delay = 0 Hours
+        *   Assumed Duration of Action  = 1 Hour
+        *   Basis of Correlational Analysis: Absolute Value
+        *   Method of Aggregation: Average
+*   Calories Burned 
+    *   Pearson Correlation: 0.5261
+    *   1170 data points
+    *   Parameters 
+        *   Assumed Onset Delay = 0 Hours
+        *   Assumed Duration of Action  = 24 Hours
+        *   Basis of Correlational Analysis: Absolute Value
+        *   Method of Aggregation: Average
+*   Carbohydrate Intake 
+    *   Pearson Correlation: 0.5227
+    *   460 data points
+    *   Parameters 
+        *   Assumed Onset Delay = 0 Hours
+        *   Assumed Duration of Action  = 24 Hours
+        *   Basis of Correlational Analysis: Absolute Value
+        *   Method of Aggregation: Average
+*   PureLife Energy Boost (Supplement)
+*   Vegetable Skillet Consumption
+*   T or Z score = ?
+*   P - value = ?
+*   Confidence Interval = ?     
+
+[<img class="alignnone wp-image-18832 size-full" src="http://res.cloudinary.com/hmj5zmqze/image/upload/v1447369913/TSriDoP_zmaedz.png" alt="TSriDoP" width="1370" height="868" />][1] <img class="aligncenter wp-image-6237 size-large" src="https://qm.wp.uploads.s3.amazonaws.com/uploads/2014/07/Flow-Chart-for-Correlations-Analysis-Optimal-Daily-Values-1024x898.png" alt="Flow Chart for Correlations Analysis Optimal Daily Values" width="1024" height="898" /> 
+## Discussion Although complex, this is just a study of one person, so obviously sample size is an issue for extrapolating data to a larger population. 
+
+## Conclusion Our hypothesis was partially correct, as sleep was the strongest predictor of overall mood change.
 
  [1]: http://res.cloudinary.com/hmj5zmqze/image/upload/v1447369913/TSriDoP_zmaedz.png
