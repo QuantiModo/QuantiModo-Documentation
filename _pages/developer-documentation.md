@@ -16,7 +16,7 @@ sbg_selected_sidebar_replacement:
   - 'a:1:{i:0;s:12:"Documenation";}'
 ---
 [vc_row text_align="center" text_color="#ffffff" type="image" bg_position="bottom" bg_position_horizontal="center" padding_top="100px" padding_bottom="100px" padding_left="0px" padding_right="0px" border="none" bg_image="19153"][vc_column][vc_custom_heading text="Getting Started With QuantiModo" font_container="tag:h2|font_size:90|text_align:center|color:%23ffffff" google_fonts="font_family:Roboto%20Condensed%3A300%2C300italic%2Cregular%2Citalic%2C700%2C700italic|font_style:400%20regular%3A400%3Anormal"][kleo_gap size="50px"][kleo_button title="First Get Started By Registering in Our Developer Portal" href="https://admin.quantimo.do/register" target="\_blank" style="custom" size="lg" special="yes" icon="bullhorn" custom\_background="#ff6e00" custom_text="#ffffff"][kleo_gap size="40px"][vc_column_text] 
-# Then chose your platform: [/vc_column_text][vc_row_inner][vc_column_inner width="1/3"][kleo_icon icon="android-1" icon_size="4x" href="https://github.com/QuantiModo/QuantiModo-SDK-Android/blob/develop/README.md" target="\_blank"][vc\_column_text] 
+# Then chose your platform: [/vc_column_text][vc_row_inner][vc_column_inner width="1/3"][kleo_icon icon="android" icon_size="4x" href="https://github.com/QuantiModo/QuantiModo-SDK-Android/blob/develop/README.md" target="\_blank"][vc\_column_text] 
 
 <h2 style="text-align: center;">
   <span style="color: #ffffff;"><a style="color: #ffffff;" href="https://github.com/QuantiModo/QuantiModo-SDK-Android/blob/develop/README.md">Android</a></span>
@@ -24,7 +24,7 @@ sbg_selected_sidebar_replacement:
 
 <p style="text-align: center;">
   <span style="color: #ffffff;">Get started using our Android development platform</span>
-</p> [/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][kleo_icon icon="wordpress-3" icon_size="4x" href="https://github.com/Abolitionist-Project/QuantiModo-WordPress-Plugin/blob/develop/README.md" target="\_blank"][vc\_column_text] 
+</p> [/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][kleo_icon icon="adn" icon_size="4x" href="https://github.com/Abolitionist-Project/QuantiModo-WordPress-Plugin/blob/develop/README.md" target="\_blank"][vc\_column_text] 
 
 <h2 style="text-align: center;">
   <span style="color: #ffffff;"><a style="color: #ffffff;" href="https://github.com/Abolitionist-Project/QuantiModo-WordPress-Plugin/blob/develop/README.md" target="_blank">WordPress</a><a style="color: #ffffff;" href="https://github.com/Abolitionist-Project/QuantiModo-WordPress-Plugin/blob/develop/README.md" target="_blank"> Plugin</a></span>
