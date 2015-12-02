@@ -16,6 +16,6 @@ sbg_selected_sidebar_replacement:
   - 'a:1:{i:0;s:1:"0";}'
 ---
 [vc_row type="color"][vc_column css=".vc_custom_1449096640558{background-color: #f8fafb !important;}"][vc_column_text] 
-## <span style="color: #4d9de0;">Get started with QuantiModo</span> [/vc_column_text][vc_column_text]
+# <span style="color: #4d9de0;">Get started with QuantiModo</span> [/vc_column_text][vc_column_text]
 
-<span style="color: #607890;"><a style="color: #607890;" href="https://quantimo.do/developer-platform/developer-documentation/">ALL OPTIONS</a> > ASK A COLLEGUE FOR HELP</span>[/vc_column_text][vc_column_text]<span style="color: #6e8593;">Installing QuantiModo should be simple and stress-free. We are willing to help in any capacity possible, including setting up QuantiModo for you.</span>[/vc_column_text][contact-form-7 id="19773"][/vc_column][/vc_row]
+<span style="color: #607890;"><a style="color: #607890;" href="https://quantimo.do/developer-platform/developer-documentation/">ALL OPTIONS</a> > ASK A COLLEGUE FOR HELP</span>[/vc_column_text][vc_column_text]**Our Promise: ** Installing QuantiModo should be simple and stress-free. We are willing to help in any capacity possible, including setting up QuantiModo for you.[/vc_column_text][contact-form-7 id="19773"][/vc_column][/vc_row]
