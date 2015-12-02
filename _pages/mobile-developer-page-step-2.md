@@ -18,6 +18,10 @@ sbg_selected_sidebar_replacement:
 [vc_row text_align="center" text_color="#ffffff" type="color" bg_color="#f8fafb" padding_top="100px" padding_bottom="100px" padding_left="0px" padding_right="0px" border="none"][vc_column][vc_single_image image="19748" img_size="full" alignment="center"][vc_column_text] 
 # **<span style="color: #4d9de0;">Get started with QuantiModo</span>** [/vc_column_text][vc_column_text] 
 
+<p style="text-align: center;">
+  <span style="color: #333333;"><span style="text-decoration: underline;"><a style="color: #333333; text-decoration: underline;" href="https://quantimo.do/developer-platform/developer-documentation/">All Options</a></span> > Mobile App</span>
+</p> [/vc_column_text][vc_column_text] 
+
 <div class="options__heading__text">
   <h4 style="text-align: center;">
     <span style="color: #6e8593;">Using QuantiModo for iOS or Android will allow your users to effortlessly sync popular apps and devices as well as receive personalized analytics. </span>
