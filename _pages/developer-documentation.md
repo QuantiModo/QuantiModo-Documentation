@@ -16,11 +16,7 @@ sbg_selected_sidebar_replacement:
   - 'a:1:{i:0;s:12:"Documenation";}'
 ---
 [vc_row text_align="center" text_color="#ffffff" type="color" bg_color="#f8fafb" padding_top="100px" padding_bottom="100px" padding_left="0px" padding_right="0px" border="none"][vc_column][vc_column_text] 
-# **<span style="color: #4d9de0;">Get started with QuantiModo</span>** [/vc_column_text][vc_column_text] 
-
-<div class="options__heading__text">
-  <span style="color: #6e8593;">TRY THE MOST POPULAR WAY TO ADD QUANTIMODO FOR</span>
-</div> [/vc_column_text][vc_tta_tabs][vc_tta_section i_icon_fontawesome="fa fa-desktop" title="Web" tab_id="1449086982786-667c2183-547c" add_icon="true"][vc_row_inner css=".vc_custom_1449091808354{background-color: #f8fafb !important;}"][vc_column_inner width="2/3" css=".vc_custom_1449091791310{background-color: #f8fafb !important;}"][vc_column_text] 
+# **<span style="color: #4d9de0;">Get started with QuantiModo</span>** [/vc_column_text][vc_tta_tabs][vc_tta_section i_icon_fontawesome="fa fa-desktop" title="Web" tab_id="1449086982786-667c2183-547c" add_icon="true"][vc_row_inner css=".vc_custom_1449091808354{background-color: #f8fafb !important;}"][vc_column_inner width="2/3" css=".vc_custom_1449091791310{background-color: #f8fafb !important;}"][vc_column_text] 
 
 ### <span style="color: #6e8593;">Integrate with JavaScript</span> [/vc_column_text][vc_column_text] 
 
