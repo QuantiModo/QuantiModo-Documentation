@@ -26,7 +26,9 @@ sbg_selected_sidebar_replacement:
 
 ##### <span style="color: #333333;">Install QuantiModo on your website in minutes by copying and pasting lines of JavaScript. Allow your users to effortless sync data and receive helpful analysis.</span> [/vc_column_text][kleo_button title="Get Started With JavaScript" href="https://admin.quantimo.do/register" target="\_blank" style="custom" size="lg" special="yes" icon="0" custom\_background="#519cd4" custom_text="#ffffff"][kleo_gap size="40px"][/vc_column_inner][vc_column_inner width="1/3" css=".vc_custom_1449091800901{background-color: #f8fafb !important;}"][kleo_gap size="34px"][vc_single_image image="19410" img_size="full"][/vc_column_inner][/vc_row_inner][/vc_tta_section][vc_tta_section i_icon_fontawesome="fa fa-mobile" title="Mobile" tab_id="1449086982558-967de0fd-041c" add_icon="true"][vc_row_inner css=".vc_custom_1449092622742{background-color: #f8fafb !important;}"][vc_column_inner width="2/3" css=".vc_custom_1449092603528{background-color: #f8fafb !important;}"][vc_column_text] 
 
-### <span style="color: #333333;">Integrate with a mobile app</span> [/vc_column_text][vc_column_text] 
+<h3 style="text-align: left;">
+  <strong><span style="color: #333333;">Integrate with a mobile app</span></strong>
+</h3> [/vc_column_text][vc_column_text] 
 
 ##### <span style="color: #333333;">Using QuantiModo for iOS or Android will allow your users to effortlessly sync popular apps and devices as well as receive personalized analytics. </span> [/vc_column_text][kleo_button title="GET STARTED WITH A MOBILE APP" href="https://quantimo.do/mobile-developer-page-step-2/" target="\_blank" style="custom" size="lg" special="yes" icon="0" custom\_background="#519cd4" custom_text="#ffffff"][kleo_gap size="40px"][/vc_column_inner][vc_column_inner width="1/3" css=".vc_custom_1449092611062{background-color: #f8fafb !important;}"][kleo_gap size="34px"][vc_single_image image="19410" img_size="full"][/vc_column_inner][/vc_row_inner][/vc_tta_section][/vc_tta_tabs][/vc_column][vc_column][vc_column_text]
 
