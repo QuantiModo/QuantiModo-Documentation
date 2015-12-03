@@ -20,9 +20,9 @@ sbg_selected_sidebar_replacement:
 
 <div class="options__heading__text">
   <span style="color: #6e8593;">TRY THE MOST POPULAR WAY TO ADD QUANTIMODO FOR</span>
-</div> [/vc_column_text][vc_tta_tabs color="white" active_section="1"][vc_tta_section i_icon_fontawesome="fa fa-desktop" title="Web" tab_id="1449086982786-667c2183-547c" add_icon="true"][vc_row_inner css=".vc_custom_1449091808354{background-color: #f8fafb !important;}"][vc_column_inner width="2/3" css=".vc_custom_1449101153240{background-color: #ffffff !important;}"][vc_column_text] 
+</div> [/vc_column_text][vc_tta_tabs color="white" active_section="1"][vc_tta_section i_icon_fontawesome="fa fa-desktop" title="Web" tab_id="1449086982786-667c2183-547c" add_icon="true"][vc_row_inner css=".vc_custom_1449091808354{background-color: #f8fafb !important;}"][vc_column_inner width="2/3" css=".vc_custom_1449101244926{background-color: #f7f7f7 !important;}"][vc_column_text] 
 
-### <span style="color: #6e8593;">Integrate with JavaScript</span> [/vc_column_text][vc_column_text] 
+### <span style="color: #333333;">Integrate with JavaScript</span> [/vc_column_text][vc_column_text] 
 
 ##### <span style="color: #6e8593;">Install QuantiModo on your website in minutes by copying and pasting lines of JavaScript. Allow your users to effortless sync data and receive helpful analysis.</span> [/vc_column_text][kleo_button title="Get Started With JavaScript" href="https://admin.quantimo.do/register" target="\_blank" style="custom" size="lg" icon="0" custom\_background="#519cd4" custom_text="#ffffff"][kleo_gap size="40px"][/vc_column_inner][vc_column_inner width="1/3" css=".vc_custom_1449091800901{background-color: #f8fafb !important;}"][kleo_gap size="34px"][vc_single_image image="19410" img_size="full"][/vc_column_inner][/vc_row_inner][/vc_tta_section][vc_tta_section i_icon_fontawesome="fa fa-mobile" title="Mobile" tab_id="1449086982558-967de0fd-041c" add_icon="true"][vc_row_inner css=".vc_custom_1449092622742{background-color: #f8fafb !important;}"][vc_column_inner width="2/3" css=".vc_custom_1449092603528{background-color: #f8fafb !important;}"][vc_column_text] 
 
