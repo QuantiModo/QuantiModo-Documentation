@@ -15,7 +15,7 @@ sbg_selected_sidebar:
 sbg_selected_sidebar_replacement:
   - 'a:1:{i:0;s:12:"Documenation";}'
 ---
-[vc_row text_align="center" text_color="#ffffff" type="color" bg_color="#f8fafb" padding_top="100px" padding_bottom="100px" padding_left="0px" padding_right="0px" border="none"][vc_column][vc_single_image image="19748" img_size="full" alignment="center"][vc_column_text] 
+[vc_row text_align="center" text_color="#ffffff" type="color" bg_color="#ffffff" padding_top="100px" padding_bottom="100px" padding_left="0px" padding_right="0px" border="none"][vc_column][vc_single_image image="19748" img_size="full" alignment="center"][vc_column_text] 
 # **<span style="color: #4d9de0;">Get started with QuantiModo</span>** [/vc_column_text][vc_column_text] 
 
 <div class="options__heading__text">
