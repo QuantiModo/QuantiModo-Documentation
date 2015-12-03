@@ -20,7 +20,7 @@ sbg_selected_sidebar_replacement:
 
 <div class="options__heading__text">
   <span style="color: #6e8593;">TRY THE MOST POPULAR WAY TO ADD QUANTIMODO FOR</span>
-</div> [/vc_column_text][vc_tta_tabs color="white" active_section="1"][vc_tta_section i_icon_fontawesome="fa fa-desktop" title="Web" tab_id="1449086982786-667c2183-547c" add_icon="true"][vc_row_inner css=".vc_custom_1449091808354{background-color: #f8fafb !important;}"][vc_column_inner width="2/3" css=".vc_custom_1449101244926{background-color: #f7f7f7 !important;}"][vc_column_text] 
+</div> [/vc_column_text][vc_tta_tabs color="white" active_section="1"][vc_tta_section i_icon_fontawesome="fa fa-desktop" title="Web" tab_id="1449086982786-667c2183-547c" add_icon="true"][vc_row_inner css=".vc_custom_1449091808354{background-color: #f8fafb !important;}"][vc_column_inner width="2/3" css=".vc_custom_1449101372929{background-color: #ffffff !important;}"][vc_column_text] 
 
 ### <span style="color: #333333;">Integrate with JavaScript</span> [/vc_column_text][vc_column_text] 
 
