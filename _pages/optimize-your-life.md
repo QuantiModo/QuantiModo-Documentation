@@ -1,6 +1,6 @@
 ---
 ID: 18196
-post_title: Landing Page (User Focus)
+post_title: Landing Page
 author: mikepsinn
 post_date: 2015-10-02 17:43:50
 post_excerpt: ""
