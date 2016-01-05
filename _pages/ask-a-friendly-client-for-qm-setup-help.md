@@ -1,6 +1,6 @@
 ---
 ID: 19774
-post_title: Ask A Friendly Client For QM Setup Help
+post_title: Ask A Friend For QM Setup Help
 author: Daniel Feinberg
 post_date: 2015-12-02 17:52:56
 post_excerpt: ""
@@ -9,7 +9,7 @@ permalink: >
   https://quantimo.do/ask-a-friendly-client-for-qm-setup-help/
 published: true
 slide_template:
-  - default
+  - ""
 sbg_selected_sidebar:
   - 'a:1:{i:0;s:1:"0";}'
 sbg_selected_sidebar_replacement:
