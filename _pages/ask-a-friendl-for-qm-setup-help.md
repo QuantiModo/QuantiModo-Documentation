@@ -6,7 +6,7 @@ post_date: 2015-12-02 17:52:56
 post_excerpt: ""
 layout: page
 permalink: >
-  https://quantimo.do/ask-a-friendly-client-for-qm-setup-help/
+  https://quantimo.do/ask-a-friendl-for-qm-setup-help/
 published: true
 slide_template:
   - ""
