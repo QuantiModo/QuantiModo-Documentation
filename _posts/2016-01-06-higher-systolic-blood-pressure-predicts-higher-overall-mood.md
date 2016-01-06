@@ -16,7 +16,7 @@ permalink: >
   https://quantimo.do/higher-systolic-blood-pressure-predicts-higher-overall-mood/
 published: true
 slide_template:
-  - ""
+  - default
 sbg_selected_sidebar:
   - 'a:1:{i:0;s:1:"0";}'
 sbg_selected_sidebar_replacement:
