@@ -1,7 +1,7 @@
 ---
 ID: 5965
 post_title: 'Study: Predictors of Mood in Patient Suffering from Inflammation-Mediated Anhedonic Depression'
-author: Daniel Feinberg
+author: mikepsinn
 post_date: 2014-08-05 02:38:12
 post_excerpt: >
   Using the Quantimodo self-tracking data
@@ -32,7 +32,7 @@ vibe_breadcrumbs:
 vibe_prev_next:
   - H
 slide_template:
-  - default
+  - ""
 sbg_selected_sidebar:
   - 'a:1:{i:0;s:1:"0";}'
 sbg_selected_sidebar_replacement:
