@@ -24,13 +24,13 @@ sbg_selected_sidebar_replacement:
 ### Study Abstract
 
 <p class="ng-binding">
-  These data suggest with a high degree of confidence (p=0.002) that Orange (Foods) has a weakly positive predictive relationship (R=0.278) with Overall Mood (Emotions). The highest quartile of Overall Mood measurements were observed following an average 0.03serving Orange . The lowest quartile of Overall Mood measurements were observed following an average 0.03serving Orange .
+  These data suggest with a high degree of confidence (p=0.002) that Orange (Foods) has a weakly positive predictive relationship (R=0.278) with Overall Mood (Emotions). The highest quartile of Overall Mood measurements were observed following an average 0.03 servings of Oranges. The lowest quartile of Overall Mood measurements were observed following an average 0.03 servings of Oranges.
 </p>
 
 ### Study Background
 
 <p class="ng-binding">
-  In order to reduce suffering through the advancement of human knowledge, I havechosen to share my findings regarding the relationship of Orange on Overall Mood.
+  In order to reduce suffering through the advancement of human knowledge, I have chosen to share my findings regarding the relationship of Orange on Overall Mood.
 </p>
 
 ### Study Objective<a href="https://quantimo.do/wp-content/uploads/2016/01/Orange-vs-Overall-Mood-Scatterplot-e1452086834161.png" rel="attachment wp-att-19934"><img class=" wp-image-19934 alignright" src="https://quantimo.do/wp-content/uploads/2016/01/Orange-vs-Overall-Mood-Scatterplot-e1452086834161.png" alt="Orange vs Overall Mood Scatterplot" width="483" height="320" /></a>
