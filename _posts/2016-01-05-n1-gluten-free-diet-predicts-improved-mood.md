@@ -1,6 +1,6 @@
 ---
 ID: 19850
-post_title: 'N1: Gluten-free diet predicts improved mood'
+post_title: 'N1 Study: Gluten-Free Diet Predicts Improved Mood'
 author: mikepsinn
 post_date: 2016-01-05 22:35:31
 post_excerpt: 'Overall Mood is, on average, 15% HIGHER after around 0.1 servings of Gluten Free Pasta with Olive Oil.  Overall Mood is, on average, -1% LOWER after around 0.02 servings of Gluten Free Pasta with Olive Oil.'
