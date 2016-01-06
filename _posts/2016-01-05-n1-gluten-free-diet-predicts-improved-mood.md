@@ -24,7 +24,7 @@ sbg_selected_sidebar_replacement:
 ### Study Background
 
 <p class="ng-binding">
-  In order to reduce suffering through the advancement of human knowledge, I have chosen to share my findings regarding the relationship of Gluten Free Pasta with Olive Oil (serving) on Overall Mood.
+  In order to reduce suffering through the advancement of human knowledge, I have chosen to share my findings regarding the relationship of Gluten Free Pasta with Olive Oil (serving) on Overall Mood.<img class="wp-image-19853 size-full alignright" src="https://quantimo.do/wp-content/uploads/2016/01/ice_screenshot_20160105-112823-e1452051488431.png" alt="ice_screenshot_20160105-112823" width="382" height="254" />
 </p>
 
 ### Study Objective
@@ -68,8 +68,6 @@ sbg_selected_sidebar_replacement:
 
 <p class="ng-binding">
   This analysis suggests that HIGHER Gluten Free Pasta with Olive Oil (serving) (Foods) generally predicts HIGHER Overall Mood (p = 0.038). Overall Mood is, on average, 15% HIGHER after around 0.08 Gluten Free Pasta with Olive Oil (serving). After an onset delay of 168 hours, Overall Mood is, on average, -1% LOWER than its average over the 168 hours following around 0.02 Gluten Free Pasta with Olive Oil (serving). 13 data points were used in this analysis. The value for Gluten Free Pasta with Olive Oil (serving) changed 25 times, effectively running 13 separate natural experiments. The top quartile outcome values are preceded by an average 0.08 serving of Gluten Free Pasta with Olive Oil (serving). The bottom quartile outcome values are preceded by an average 0.02 serving of Gluten Free Pasta with Olive Oil (serving). Forward Pearson Correlation Coefficient was 0.255 (p=0.038, 95% CI -0.124 to 0.634 onset delay = 0.5 hours, duration of action = 168 hours) . The Reverse Pearson Correlation Coefficient was 0.284 (P=0.038, 95% CI -0.095 to 0.663, onset delay = -0.5 hours, duration of action = -168 hours). When the Gluten Free Pasta with Olive Oil (serving) value is closer to 0.08 serving than 0.02 serving, the Overall Mood value which follows is, on average, 15% percent higher than its typical value. When the Gluten Free Pasta with Olive Oil (serving) value is closer to 0.02 serving than 0.08 serving, the Overall Mood value which follows is 0% lower than its typical value.
-</p>   
-
-<a href="https://quantimo.do/wp-content/uploads/2016/01/ice_screenshot_20160105-112823.png" rel="attachment wp-att-19853"><img class="alignnone size-full wp-image-19853" src="https://quantimo.do/wp-content/uploads/2016/01/ice_screenshot_20160105-112823.png" alt="ice_screenshot_20160105-112823" width="383" height="302" /></a>
+</p>    
 
  [1]: https://quantimo.do/data-sources
