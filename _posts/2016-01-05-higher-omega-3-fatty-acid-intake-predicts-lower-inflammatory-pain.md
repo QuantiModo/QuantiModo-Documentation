@@ -1,8 +1,6 @@
 ---
 ID: 19848
-post_title: >
-  HIGHER Omega 3 Fatty Acid Intake
-  Predicts LOWER Inflammatory Pain
+post_title: 'N=1 Study: HIGHER Omega 3 Fatty Acid Intake Predicts LOWER Inflammatory Pain'
 author: mikepsinn
 post_date: 2016-01-05 22:48:56
 post_excerpt: >
@@ -75,9 +73,6 @@ sbg_selected_sidebar_replacement:
 
 <p class="ng-binding">
   This analysis suggests that HIGHER Omega 3 Fatty Acids (Treatments) generally predicts LOWER Inflammatory Pain (p = 0). Inflammatory Pain is, on average, 5% HIGHER after around 7.95 Omega 3 Fatty Acids. After an onset delay of 168 hours, Inflammatory Pain is, on average, -27% LOWER than its average over the 168 hours following around 359.74 Omega 3 Fatty Acids. 51 data points were used in this analysis. The value for Omega 3 Fatty Acids changed 29 times, effectively running 15 separate natural experiments. The top quartile outcome values are preceded by an average 7.95 mg of Omega 3 Fatty Acids. The bottom quartile outcome values are preceded by an average 359.74 mg of Omega 3 Fatty Acids. Forward Pearson Correlation Coefficient was -0.504 (p=0, 95% CI -0.592 to -0.417 onset delay = 0.5 hours, duration of action = 168 hours) . The Reverse Pearson Correlation Coefficient was -0.389 (P=0, 95% CI -0.477 to -0.301, onset delay = -0.5 hours, duration of action = -168 hours). When the Omega 3 Fatty Acids value is closer to 7.95 mg than 359.74 mg, the Inflammatory Pain value which follows is, on average, 5% percent higher than its typical value. When the Omega 3 Fatty Acids value is closer to 359.74 mg than 7.95 mg, the Inflammatory Pain value which follows is 0% lower than its typical value.
-</p>
-
-<p class="ng-binding">
 </p>
 
 <p class="ng-binding">
