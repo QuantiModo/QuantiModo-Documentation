@@ -24,10 +24,10 @@ sbg_selected_sidebar_replacement:
 ### Study Background
 
 <p class="ng-binding">
-  In order to reduce suffering through the advancement of human knowledge, I have chosen to share my findings regarding the relationship of Gluten Free Pasta with Olive Oil (serving) on Overall Mood.<img class="wp-image-19853 size-full alignright" src="https://quantimo.do/wp-content/uploads/2016/01/ice_screenshot_20160105-112823-e1452051488431.png" alt="ice_screenshot_20160105-112823" width="382" height="254" />
+  In order to reduce suffering through the advancement of human knowledge, I have chosen to share my findings regarding the relationship of Gluten Free Pasta with Olive Oil (serving) on Overall Mood.
 </p>
 
-### Study Objective
+### Study Objective<img class="wp-image-19853 size-full alignright" src="https://quantimo.do/wp-content/uploads/2016/01/ice_screenshot_20160105-112823-e1452051488431.png" alt="ice_screenshot_20160105-112823" width="382" height="254" />
 
 <p class="ng-binding">
   The objective of this study is to determine the nature of the relationship (if any) between the Gluten Free Pasta with Olive Oil (serving) and the Overall Mood. Additionally, we attempt to determine the Gluten Free Pasta with Olive Oil (serving) values most likely to produce optimal Overall Mood values.
