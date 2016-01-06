@@ -1,6 +1,8 @@
 ---
 ID: 19878
-post_title: 'N=1 Study: HIGHER Remeron predicts HIGHER Overall Mood'
+post_title: >
+  HIGHER Remeron Intake Predicts HIGHER
+  Overall Mood
 author: mikepsinn
 post_date: 2016-01-05 23:10:36
 post_excerpt: >
@@ -13,7 +15,7 @@ permalink: >
   https://quantimo.do/n1-study-higher-remeron-predicts-higher-overall-mood/
 published: true
 slide_template:
-  - default
+  - ""
 sbg_selected_sidebar:
   - 'a:1:{i:0;s:1:"0";}'
 sbg_selected_sidebar_replacement:
