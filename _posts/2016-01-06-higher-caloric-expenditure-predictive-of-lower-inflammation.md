@@ -34,7 +34,7 @@ sbg_selected_sidebar_replacement:
   In order to reduce suffering through the advancement of human knowledge, I have chosen to share my findings regarding the relationship between Calories Burned and Inflammatory Pain.
 </p>
 
-### Study Objective<a href="https://quantimo.do/wp-content/uploads/2016/01/Calories-Burned-vs-Inflammatory-Pain-Scatterplot.png" rel="attachment wp-att-19965"><img class="alignnone size-full wp-image-19965" src="https://quantimo.do/wp-content/uploads/2016/01/Calories-Burned-vs-Inflammatory-Pain-Scatterplot.png" alt="Calories Burned vs Inflammatory Pain Scatterplot" width="299" height="244" /></a>
+### Study Objective<a href="https://quantimo.do/wp-content/uploads/2016/01/Calories-Burned-vs-Inflammatory-Pain-Scatterplot.png" rel="attachment wp-att-19965"><img class="size-full wp-image-19965 alignright" src="https://quantimo.do/wp-content/uploads/2016/01/Calories-Burned-vs-Inflammatory-Pain-Scatterplot.png" alt="Calories Burned vs Inflammatory Pain Scatterplot" width="299" height="244" /></a>
 
 <p class="ng-binding">
   The objective of this study is to determine the nature of the relationship (if any) between the Calories Burned and the Inflammatory Pain. Additionally, we attempt to determine the Calories Burned values most likely to produce optimal Inflammatory Pain values.
