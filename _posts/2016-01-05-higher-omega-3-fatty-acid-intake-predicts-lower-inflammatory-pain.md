@@ -1,6 +1,8 @@
 ---
 ID: 19848
-post_title: 'N=1 Study: HIGHER Omega 3 Fatty Acid Intake Predicts LOWER Inflammatory Pain'
+post_title: >
+  HIGHER Omega 3 Fatty Acid Intake
+  Predicts LOWER Inflammatory Pain
 author: mikepsinn
 post_date: 2016-01-05 22:48:56
 post_excerpt: >
@@ -14,7 +16,7 @@ permalink: >
   https://quantimo.do/higher-omega-3-fatty-acid-intake-predicts-lower-inflammatory-pain/
 published: true
 slide_template:
-  - default
+  - ""
 sbg_selected_sidebar:
   - 'a:1:{i:0;s:1:"0";}'
 sbg_selected_sidebar_replacement:
