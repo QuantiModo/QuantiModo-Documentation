@@ -5,7 +5,7 @@ post_title: >
   with Inflammatory Pain
 author: mikepsinn
 post_date: 2016-01-06 12:32:34
-post_excerpt: 'Inflammatory Pain is, on average, 13% HIGHER after around 3.54/5 Overall Mood.  Inflammatory Pain is, on average, -9% LOWER after around 4.14/5 Overall Mood.'
+post_excerpt: 'Inflammatory Pain is, on average, 13% HIGHER after around 3.54/5 rating for Overall Mood.  Inflammatory Pain is, on average, -9% LOWER after around 4.14/5 rating for Overall Mood.'
 layout: post
 permalink: >
   https://quantimo.do/mood-exhibits-high-negative-correlation-with-inflammatory-pain/
@@ -20,7 +20,7 @@ sbg_selected_sidebar_replacement:
 ### Study Abstract
 
 <p class="ng-binding">
-  These data suggest with a high degree of confidence (p=0.001) that Overall Mood (Emotions) has a weakly positive predictive relationship (R=-0.343) with Inflammatory Pain (Symptoms). The highest quartile of Inflammatory Pain measurements were observed following an average 3.54/5Overall Mood. The lowest quartile of Inflammatory Pain measurements were observed following an average 4.14/5Overall Mood.
+  These data suggest with a high degree of confidence (p=0.001) that Overall Mood (Emotions) has a weakly positive predictive relationship (R=-0.343) with Inflammatory Pain (Symptoms). The highest quartile of Inflammatory Pain measurements were observed following an average 3.54/5 rating for Overall Mood. The lowest quartile of Inflammatory Pain measurements were observed following an average 4.14/5 rating for Overall Mood.
 </p>
 
 ### Study Background
