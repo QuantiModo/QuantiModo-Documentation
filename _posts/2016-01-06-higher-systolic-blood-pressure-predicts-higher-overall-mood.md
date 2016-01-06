@@ -34,7 +34,7 @@ sbg_selected_sidebar_replacement:
   In order to reduce suffering through the advancement of human knowledge, I have chosen to share my findings regarding the relationship of Systolic Blood Pressure on Overall Mood.
 </p>
 
-### Study Objective<a href="https://quantimo.do/wp-content/uploads/2016/01/Omega-3-Fatty-Acids-vs-Inflammatory-Pain-Scatterplot.png" rel="attachment wp-att-19959"><img class="size-full wp-image-19959 alignright" src="https://quantimo.do/wp-content/uploads/2016/01/Omega-3-Fatty-Acids-vs-Inflammatory-Pain-Scatterplot.png" alt="Omega 3 Fatty Acids vs Inflammatory Pain Scatterplot" width="261" height="249" /></a>
+### Study Objective<a href="https://quantimo.do/wp-content/uploads/2016/01/Systolic-Blood-Pressure-vs-Overall-Mood.png" rel="attachment wp-att-19962"><img class="size-full wp-image-19962 alignright" src="https://quantimo.do/wp-content/uploads/2016/01/Systolic-Blood-Pressure-vs-Overall-Mood.png" alt="Systolic Blood Pressure vs Overall Mood" width="275" height="250" /></a>
 
 <p class="ng-binding">
   The objective of this study is to determine the nature of the relationship (if any) between the Systolic Blood Pressure and the Overall Mood. Additionally, we attempt to determine the Systolic Blood Pressure values most likely to produce optimal Overall Mood values.
