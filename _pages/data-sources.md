@@ -53,4 +53,4 @@ sbg_selected_sidebar:
 sbg_selected_sidebar_replacement:
   - 'a:1:{i:0;s:1:"0";}'
 ---
-[vc_column][/vc_column][vc_row][vc_column][kleo_search_form context="portfolio" placeholder="What do you want to track?"][kleo_portfolio columns="6" item_count="100"][/vc_column][/vc_row]
+[vc_column][/vc_column][vc_row][vc_column][kleo_portfolio columns="6" item_count="100"][/vc_column][/vc_row]
