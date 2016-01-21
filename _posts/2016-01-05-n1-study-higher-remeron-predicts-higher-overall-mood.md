@@ -33,7 +33,7 @@ sbg_selected_sidebar_replacement:
   In order to reduce suffering through the advancement of human knowledge, I have chosen to share my findings regarding the relationship of Remeron on Overall Mood.
 </p>
 
-### Study Objective<a href="https://quantimo.do/wp-content/uploads/2016/01/Remeron-vs-Overall-Mood-Scatterplot.png" rel="attachment wp-att-19879"><img class="size-full wp-image-19879 alignright" src="https://quantimo.do/wp-content/uploads/2016/01/Remeron-vs-Overall-Mood-Scatterplot.png" alt="Remeron vs Overall Mood Scatterplot" width="457" height="250" /></a>
+### <a href="https://quantimo.do/wp-content/uploads/2016/01/Remeron-vs-Overall-Mood-Scatterplot-final.png" rel="attachment wp-att-19993"><img class="size-full wp-image-19993 alignright" src="https://quantimo.do/wp-content/uploads/2016/01/Remeron-vs-Overall-Mood-Scatterplot-final.png" alt="Remeron vs Overall Mood Scatterplot final" width="454" height="454" /></a>Study Objective
 
 <p class="ng-binding">
   The objective of this study is to determine the nature of the relationship (if any) between the Remeron and the Overall Mood. Additionally, we attempt to determine the Remeron values most likely to produce optimal Overall Mood values.
