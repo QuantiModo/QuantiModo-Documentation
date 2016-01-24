@@ -34,7 +34,7 @@ sbg_selected_sidebar_replacement:
   In order to reduce suffering through the advancement of human knowledge, I have chosen to share my findings regarding the relationship between Pro-Biotics Plus and Inflammatory Pain.
 </p>
 
-### Study Objective
+### <a href="https://quantimo.do/wp-content/uploads/2016/01/Pro-Biotics-Plus-vs-Inflammatory-final.png" rel="attachment wp-att-20026"><img class="size-full wp-image-20026 alignright" src="https://quantimo.do/wp-content/uploads/2016/01/Pro-Biotics-Plus-vs-Inflammatory-final.png" alt="Pro-Biotics Plus vs Inflammatory final" width="454" height="454" /></a>Study Objective
 
 <p class="ng-binding">
   The objective of this study is to determine the nature of the relationship (if any) between the Pro-Biotics Plus and the Inflammatory Pain. Additionally, we attempt to determine the Pro-Biotics Plus values most likely to produce optimal Inflammatory Pain values.
