@@ -1,11 +1,16 @@
 ---
 ID: 19973
 post_title: >
-  HIGHER Pro-Biotics Plus Intake Predicts
-  LOWER Inflammatory Pain
+  HIGHER Pro-Biotics Plus predicts LOWER
+  Inflammatory Pain
 author: mikepsinn
 post_date: 2016-01-06 12:21:17
-post_excerpt: 'Inflammatory Pain is, on average, 9% HIGHER after around 0 tablets of the supplement Pro-Biotics Plus.  Inflammatory Pain is, on average, -16% LOWER after around 0.7 tablets Pro-Biotics Plus'
+post_excerpt: >
+  Inflammatory Pain is, on average, 9%
+  HIGHER after around 0tablets Pro-Biotics
+  Plus. Inflammatory Pain is, on average,
+  -16% LOWER after around 0.71tablets
+  Pro-Biotics Plus
 layout: post
 permalink: >
   https://quantimo.do/higher-pro-biotics-plus-intake-predicts-lower-inflammatory-pain/
@@ -29,7 +34,7 @@ sbg_selected_sidebar_replacement:
   In order to reduce suffering through the advancement of human knowledge, I have chosen to share my findings regarding the relationship between Pro-Biotics Plus and Inflammatory Pain.
 </p>
 
-### Study Objective<a href="https://quantimo.do/wp-content/uploads/2016/01/Pro-Biotics-Plus-vs-Inflammatory-Pain-Scatterplot.png" rel="attachment wp-att-19974"><img class="size-full wp-image-19974 alignright" src="https://quantimo.do/wp-content/uploads/2016/01/Pro-Biotics-Plus-vs-Inflammatory-Pain-Scatterplot.png" alt="Pro-Biotics Plus vs Inflammatory Pain Scatterplot" width="293" height="294" /></a>
+### Study Objective
 
 <p class="ng-binding">
   The objective of this study is to determine the nature of the relationship (if any) between the Pro-Biotics Plus and the Inflammatory Pain. Additionally, we attempt to determine the Pro-Biotics Plus values most likely to produce optimal Inflammatory Pain values.
@@ -53,7 +58,7 @@ sbg_selected_sidebar_replacement:
   The <a href="https://quantimo.do/">QuantiModo</a> platform was used to aggregate data from the <a href="https://quantimo.do/data-sources">data sources</a>.
 </p> Pro-Biotics Plus data was collect using: 
 
-[Med Helper][1]. Inflammatory Pain data was collected using:[Cardiograph][1]. 
+[Med Helper][1]. Inflammatory Pain data was collected using: [Cardiograph][1]. 
 ### Significance Explanation
 
 <p class="ng-binding">
