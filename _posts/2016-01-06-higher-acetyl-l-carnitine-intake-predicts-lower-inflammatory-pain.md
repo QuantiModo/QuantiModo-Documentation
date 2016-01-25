@@ -5,7 +5,12 @@ post_title: >
   Predicts LOWER Inflammatory Pain
 author: mikepsinn
 post_date: 2016-01-06 12:12:00
-post_excerpt: 'Inflammatory Pain is, on average, 20% HIGHER after around 0 mg Acetyl-L-Carnitine.  Inflammatory Pain is, on average, -11% LOWER after around 460.53 mg Acetyl-L-Carnitine'
+post_excerpt: >
+  Inflammatory Pain is, on average, 20%
+  HIGHER after around 0mg
+  Acetyl-L-Carnitine. Inflammatory Pain
+  is, on average, -11% LOWER after around
+  460.53mg Acetyl-L-Carnitine
 layout: post
 permalink: >
   https://quantimo.do/higher-acetyl-l-carnitine-intake-predicts-lower-inflammatory-pain/
@@ -29,7 +34,7 @@ sbg_selected_sidebar_replacement:
   In order to reduce suffering through the advancement of human knowledge, I have chosen to share my findings regarding the relationship between Acetyl-L-Carnitine and Inflammatory Pain.
 </p>
 
-### Study Objective<a href="https://quantimo.do/wp-content/uploads/2016/01/Acetyl-L-Carnitine-vs-Inflammatory-Pain-Scatterplot.png" rel="attachment wp-att-19970"><img class="size-full wp-image-19970 alignright" src="https://quantimo.do/wp-content/uploads/2016/01/Acetyl-L-Carnitine-vs-Inflammatory-Pain-Scatterplot.png" alt="Acetyl-L-Carnitine vs Inflammatory Pain Scatterplot" width="289" height="259" /></a>
+### <a href="https://quantimo.do/wp-content/uploads/2016/01/Acetyl-L-Carnitine-vs-Inflammatory-final.png" rel="attachment wp-att-20029"><img class="size-full wp-image-20029 alignright" src="https://quantimo.do/wp-content/uploads/2016/01/Acetyl-L-Carnitine-vs-Inflammatory-final.png" alt="Acetyl-L-Carnitine vs Inflammatory final" width="454" height="454" /></a>Study Objective
 
 <p class="ng-binding">
   The objective of this study is to determine the nature of the relationship (if any) between the Acetyl-L-Carnitine and the Inflammatory Pain. Additionally, we attempt to determine the Acetyl-L-Carnitine values most likely to produce optimal Inflammatory Pain values.
@@ -53,7 +58,7 @@ sbg_selected_sidebar_replacement:
   The <a href="https://quantimo.do/">QuantiModo</a> platform was used to aggregate data from the <a href="https://quantimo.do/data-sources">data sources</a>.
 </p> Acetyl-L-Carnitine data was collect using: 
 
-[Med Helper][1]. Inflammatory Pain data was collected using:[Cardiograph][1]. 
+[Med Helper][1]. Inflammatory Pain data was collected using: [Cardiograph][1]. 
 ### Significance Explanation
 
 <p class="ng-binding">
