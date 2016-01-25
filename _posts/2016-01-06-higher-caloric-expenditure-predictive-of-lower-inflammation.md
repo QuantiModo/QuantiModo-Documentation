@@ -1,8 +1,8 @@
 ---
 ID: 19964
 post_title: >
-  Higher Caloric Expenditure Predictive of
-  Lower Inflammation
+  HIGHER Calories Burned predicts LOWER
+  Inflammatory Pain
 author: mikepsinn
 post_date: 2016-01-06 12:07:41
 post_excerpt: >
@@ -10,7 +10,7 @@ post_excerpt: >
   HIGHER after around 900.99kcal Calories
   Burned. Inflammatory Pain is, on
   average, -5% LOWER after around
-  2546.07kcal Calories Burned.
+  2546.07kcal Calories Burned
 layout: post
 permalink: >
   https://quantimo.do/higher-caloric-expenditure-predictive-of-lower-inflammation/
@@ -34,7 +34,7 @@ sbg_selected_sidebar_replacement:
   In order to reduce suffering through the advancement of human knowledge, I have chosen to share my findings regarding the relationship between Calories Burned and Inflammatory Pain.
 </p>
 
-### Study Objective<a href="https://quantimo.do/wp-content/uploads/2016/01/Calories-Burned-vs-Inflammatory-Pain-Scatterplot.png" rel="attachment wp-att-19965"><img class="size-full wp-image-19965 alignright" src="https://quantimo.do/wp-content/uploads/2016/01/Calories-Burned-vs-Inflammatory-Pain-Scatterplot.png" alt="Calories Burned vs Inflammatory Pain Scatterplot" width="299" height="244" /></a>
+### <a href="https://quantimo.do/wp-content/uploads/2016/01/Calories-Burned-vs-Inflammatory-final.png" rel="attachment wp-att-20032"><img class="size-full wp-image-20032 alignright" src="https://quantimo.do/wp-content/uploads/2016/01/Calories-Burned-vs-Inflammatory-final.png" alt="Calories Burned vs Inflammatory final" width="454" height="454" /></a>Study Objective
 
 <p class="ng-binding">
   The objective of this study is to determine the nature of the relationship (if any) between the Calories Burned and the Inflammatory Pain. Additionally, we attempt to determine the Calories Burned values most likely to produce optimal Inflammatory Pain values.
@@ -56,9 +56,9 @@ sbg_selected_sidebar_replacement:
 
 <p class="ng-binding">
   The <a href="https://quantimo.do/">QuantiModo</a> platform was used to aggregate data from the <a href="https://quantimo.do/data-sources">data sources</a>.
-</p> Calories Burned data was collect using:
+</p> Calories Burned data was collect using: 
 
-[Bodymedia, Fitbit, Med Helper, MyFitnessPal, MyNetDiary, Quantimo.do, Up, Up by Jawbone, Withings][1]. Inflammatory Pain data was collected using:[Cardiograph][1]. 
+[Bodymedia, Fitbit, Med Helper, MyFitnessPal, MyNetDiary, Quantimo.do, Up, Up by Jawbone, Withings][1]. Inflammatory Pain data was collected using: [Cardiograph][1]. 
 ### Significance Explanation
 
 <p class="ng-binding">
