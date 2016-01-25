@@ -1,11 +1,15 @@
 ---
 ID: 19976
 post_title: >
-  Mood Exhibits High Negative Correlation
-  with Inflammatory Pain
+  HIGHER Overall Mood predicts LOWER
+  Inflammatory Pain
 author: mikepsinn
 post_date: 2016-01-06 12:32:34
-post_excerpt: 'Inflammatory Pain is, on average, 13% HIGHER after around 3.54/5 rating for Overall Mood.  Inflammatory Pain is, on average, -9% LOWER after around 4.14/5 rating for Overall Mood.'
+post_excerpt: >
+  Inflammatory Pain is, on average, 13%
+  HIGHER after around 3.54/5 Overall Mood.
+  Inflammatory Pain is, on average, -9%
+  LOWER after around 4.14/5 Overall Mood
 layout: post
 permalink: >
   https://quantimo.do/mood-exhibits-high-negative-correlation-with-inflammatory-pain/
@@ -20,7 +24,7 @@ sbg_selected_sidebar_replacement:
 ### Study Abstract
 
 <p class="ng-binding">
-  These data suggest with a high degree of confidence (p=0.001) that Overall Mood (Emotions) has a weakly positive predictive relationship (R=-0.343) with Inflammatory Pain (Symptoms). The highest quartile of Inflammatory Pain measurements were observed following an average 3.54/5 rating for Overall Mood. The lowest quartile of Inflammatory Pain measurements were observed following an average 4.14/5 rating for Overall Mood.
+  These data suggest with a high degree of confidence (p=0.001) that Overall Mood (Emotions) has a weakly positive predictive relationship (R=-0.343) with Inflammatory Pain (Symptoms). The highest quartile of Inflammatory Pain measurements were observed following an average 3.54/5Overall Mood. The lowest quartile of Inflammatory Pain measurements were observed following an average 4.14/5Overall Mood.
 </p>
 
 ### Study Background
@@ -29,7 +33,7 @@ sbg_selected_sidebar_replacement:
   In order to reduce suffering through the advancement of human knowledge, I have chosen to share my findings regarding the relationship between Overall Mood and Inflammatory Pain.
 </p>
 
-### Study Objective<a href="https://quantimo.do/wp-content/uploads/2016/01/Overall-Mood-vs-Inflammatory-Pain-Scatterplot.png" rel="attachment wp-att-19977"><img class="size-full wp-image-19977 alignright" src="https://quantimo.do/wp-content/uploads/2016/01/Overall-Mood-vs-Inflammatory-Pain-Scatterplot.png" alt="Overall Mood vs Inflammatory Pain Scatterplot" width="273" height="242" /></a>
+### <a href="https://quantimo.do/wp-content/uploads/2016/01/Overall-Mood-vs-Inflammatory-Pain-final.png" rel="attachment wp-att-20038"><img class="size-full wp-image-20038 alignright" src="https://quantimo.do/wp-content/uploads/2016/01/Overall-Mood-vs-Inflammatory-Pain-final.png" alt="Overall Mood vs Inflammatory Pain final" width="454" height="454" /></a>Study Objective
 
 <p class="ng-binding">
   The objective of this study is to determine the nature of the relationship (if any) between the Overall Mood and the Inflammatory Pain. Additionally, we attempt to determine the Overall Mood values most likely to produce optimal Inflammatory Pain values.
@@ -53,7 +57,7 @@ sbg_selected_sidebar_replacement:
   The <a href="https://quantimo.do/">QuantiModo</a> platform was used to aggregate data from the <a href="https://quantimo.do/data-sources">data sources</a>.
 </p> Overall Mood data was collect using: 
 
-[Good Day Journal, MoodiModo, MoodiModo Ionic, MoodiModo Web, MoodPanda, Moodscope, Quantimo.do, QuantiModo, QuantiPress][1]. Inflammatory Pain data was collected using:[Cardiograph][1]. 
+[Good Day Journal, MoodiModo, MoodiModo Ionic, MoodiModo Web, MoodPanda, Moodscope, Quantimo.do, QuantiModo, QuantiPress][1]. Inflammatory Pain data was collected using: [Cardiograph][1]. 
 ### Significance Explanation
 
 <p class="ng-binding">
@@ -69,7 +73,7 @@ sbg_selected_sidebar_replacement:
 ### Study Results
 
 <p class="ng-binding">
-  This analysis suggests that HIGHER Overall Mood (Emotions) generally predicts LOWER Inflammatory Pain (p = 0.001). Inflammatory Pain is, on average, 13% HIGHER after around 3.54 Overall Mood. After an onset delay of 24 hours, Inflammatory Pain is, on average, -9% LOWER than its average over the 24 hours following around 4.14 Overall Mood. 51 data points were used in this analysis. The value for Overall Mood changed 419 times, effectively running 210 separate natural experiments. The top quartile outcome values are preceded by an average 3.54 /5 of Overall Mood. The bottom quartile outcome values are preceded by an average 4.14 /5 of Overall Mood. Forward Pearson Correlation Coefficient was -0.343 (p=0.001, 95% CI -0.572 to -0.113 onset delay = 0 hours, duration of action = 24 hours) . The Reverse Pearson Correlation Coefficient was -0.398 (P=0.001, 95% CI -0.628 to -0.168, onset delay = -0 hours, duration of action = -24 hours). When the Overall Mood value is closer to 3.54 /5 than 4.14 /5, the Inflammatory Pain value which follows is, on average, 13% percent higher than its typical value. When the Overall Mood value is closer to 4.14 /5 than 3.54 /5, the Inflammatory Pain value which follows is 0% lower than its typical value.
+  This analysis suggests that HIGHER Overall Mood (Emotions) generally predicts LOWER Inflammatory Pain (p = 0.001). Inflammatory Pain is, on average, 13% HIGHER after around 3.54 Overall Mood. After an onset delay of 24 hours, Inflammatory Pain is, on average, -9% LOWER than its average over the 24 hours following around 4.14 Overall Mood. 51 data points were used in this analysis. The value for Overall Mood changed 474 times, effectively running 237 separate natural experiments. The top quartile outcome values are preceded by an average 3.54 /5 of Overall Mood. The bottom quartile outcome values are preceded by an average 4.14 /5 of Overall Mood. Forward Pearson Correlation Coefficient was -0.343 (p=0.001, 95% CI -0.572 to -0.113 onset delay = 0 hours, duration of action = 24 hours) . The Reverse Pearson Correlation Coefficient was -0.398 (P=0.001, 95% CI -0.628 to -0.168, onset delay = -0 hours, duration of action = -24 hours). When the Overall Mood value is closer to 3.54 /5 than 4.14 /5, the Inflammatory Pain value which follows is, on average, 13% percent higher than its typical value. When the Overall Mood value is closer to 4.14 /5 than 3.54 /5, the Inflammatory Pain value which follows is 0% lower than its typical value.
 </p>
 
  [1]: https://quantimo.do/data-sources
