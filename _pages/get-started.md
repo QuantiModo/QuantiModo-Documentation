@@ -6,7 +6,7 @@ post_date: 2015-10-26 14:12:00
 post_excerpt: ""
 layout: page
 permalink: >
-  https://quantimo.do/developer-platform/developer-documentation/
+  https://quantimo.do/developer-platform/get-started/
 published: true
 slide_template:
   - default
