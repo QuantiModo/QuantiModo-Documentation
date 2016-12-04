@@ -1,7 +1,7 @@
 ---
 ID: 447
 post_title: Terms of Service
-author: ""
+author: mikepsinn
 post_date: 2013-08-08 20:47:15
 post_excerpt: ""
 layout: page

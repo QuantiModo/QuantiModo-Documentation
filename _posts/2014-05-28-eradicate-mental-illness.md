@@ -3,9 +3,14 @@ ID: 1985
 post_title: >
   9 Barriers to the Eradication of Mental
   Illness and How We Can Overcome Them
-author: ""
+author: mikepsinn
 post_date: 2014-05-28 08:55:03
-post_excerpt: ""
+post_excerpt: >
+  These are the reasons why mental illness
+  continues to ravage our society despite
+  the miraculous rate of technical
+  innovation in almost every other field
+  of human endeavor.
 layout: post
 permalink: >
   https://quantimo.do/eradicate-mental-illness/
@@ -30,6 +35,12 @@ vibe_breadcrumbs:
   - S
 vibe_prev_next:
   - H
+slide_template:
+  - default
+sbg_selected_sidebar:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_replacement:
+  - 'a:1:{i:0;s:1:"0";}'
 ---
 <h2><img style="margin-right: 30px;" src="https://i.imgur.com/f7MiUBD.jpg" alt="" width="150px" height="150px" align="left" /></h2>
 How can it be that humanity has achieved the monumental technical feat of putting a man on the moon, yet we still have not found a surefire way to make him happy? To me, the latter task seems far more important and far easier. These are the reasons why mental illness continues to ravage our society despite the miraculous rate of technical innovation in almost every other field of human endeavor.

@@ -1,7 +1,7 @@
 ---
 ID: 1152
 post_title: Logout
-author: ""
+author: mikepsinn
 post_date: 2014-02-01 13:49:25
 post_excerpt: ""
 layout: page

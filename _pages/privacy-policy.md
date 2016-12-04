@@ -1,7 +1,7 @@
 ---
 ID: 449
 post_title: Privacy Policy
-author: ""
+author: mikepsinn
 post_date: 2013-08-09 03:14:11
 post_excerpt: ""
 layout: page

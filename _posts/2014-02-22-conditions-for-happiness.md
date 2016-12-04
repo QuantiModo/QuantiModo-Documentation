@@ -3,7 +3,10 @@ ID: 3337
 post_title: Conditions for Happiness
 author: mikepsinn
 post_date: 2014-02-22 04:11:14
-post_excerpt: ""
+post_excerpt: |
+  >
+    An overview of some critical factors
+    when it comes to maximizing well-being.
 layout: post
 permalink: >
   https://quantimo.do/conditions-for-happiness/
@@ -22,17 +25,25 @@ vibe_breadcrumbs:
   - S
 vibe_prev_next:
   - H
+slide_template:
+  - default
+sbg_selected_sidebar:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_replacement:
+  - 'a:1:{i:0;s:1:"0";}'
 ---
 <h2>Exercise</h2>
 <img style="margin-right: 10px;" src="https://i.imgur.com/8gwWoLF.jpg" alt="" width="150px" height="150px" align="left" />I hate exercise. It feels like such a waste of time. You have to go to the gym and people look at you. It just sucks. Unfortunately, I’ve found that I have to elevate my heart rate above 150 beats per minute several times a week to avoid being miserable. There are several reasons that exercise increases happiness.
-
-Lower Epinephrine Levels - Variation in the degree of cardiovascular activity can lower circulating epinephrine levels. Epinephrine is the chemical messenger responsible for the body’s “fight or flight” response to danger or stress. Lower levels mean less stress.
-Higher BDNF Levels - Physical activity also increases the expression of the brain derived neurothophic factor (BDNF). BDNF promotes the survival of serotonin receptors, the activation of which is is associated with a sense of well-being and pleasure.
-Endorphin Release - Another factor is endorphins, the chemicals released in response to stress or pain. When endorphins lock into opioid receptors, they block the transmission of pain signals and also produce a euphoric feeling like opiates do.
+<h3>Lower Epinephrine Levels</h3>
+Variation in the degree of cardiovascular activity can lower circulating epinephrine levels. Epinephrine is the chemical messenger responsible for the body’s “fight or flight” response to danger or stress. Lower levels mean less stress.
+<h3>Higher BDNF Levels</h3>
+Physical activity also increases the expression of the brain-derived neurotrophic factor (BDNF). BDNF promotes the survival of serotonin receptors, the activation of which is is associated with a sense of well-being and pleasure.
+<h3>Endorphin Release</h3>
+Another factor is endorphins, the chemicals released in response to stress or pain. When endorphins lock into opioid receptors, they block the transmission of pain signals and also produce a euphoric feeling like opiates do.
 <h2>Adequate Sleep</h2>
 This also feels like a huge waste of 219,000 hours of your life. However, it seems also to be a necessary evil. Sleep deprivation can increase levels of corticosterone (a stress hormone), resulting in fewer new brain cells being created in your hippocampus. The inhibition of this neurogenesis is linked to the development of depression.
 
-Blue light can reduce quality of sleep even when your eyes are shut. Blue light activates retinal ganglion cells containing melanopsin and reduces the production of melatonin, decreasing sleep efficiency. Computer programs like f.lux and wearing Blu-Blockers for a few hours before bed are helpful in preventing this. However, I personally prefer to put Blu-Blockers on as a shocker several hours before bedtime (primarily for the sake of vanity).
+Blue light can reduce your quality of sleep even when your eyes are shut. Blue light activates retinal ganglion cells containing melanopsin and reduces the production of melatonin, decreasing sleep efficiency. Computer programs like f.lux and wearing Blu-Blockers for a few hours before bed are helpful in preventing this. However, I personally prefer to put Blu-Blockers on as a shocker several hours before bedtime (primarily for the sake of vanity).
 <p style="text-align: center;"><iframe src="//www.youtube.com/embed/_Png-PC0ews?rel=0" width="300" height="150" frameborder="0"></iframe></p>
 
 <h2>Proper Diet</h2>
@@ -48,7 +59,7 @@ Even after these basic preconditions for happiness were met, I was still miserab
 
 Around the same time, I started antagonizing my NMDA receptors to prevent the excitotoxicity effects of excessive glutamate activation. This turned out to be extremely helpful at reducing social anxiety. The shift in my worldview that came along with overcoming that illness, reminded me very much of the first time I put on glasses. It was rather shocking to realize how beautiful the world was to normal people. Life was suddenly so much easier. I had tons of spare brain capacity that I previously devoted to constantly hypothesizing about the infinite reasons that everyone hated me.
 
-Unfortunately, after a few months, I was getting depressed again. I initially chalked this up to my brain’s desire to return to homeostasis producing a negative feedback mechanism reulting in tolerance. I was rather disappointed. However, a month or so later, my mood began to improve again. I didn’t really understand why that happened. Then, my friend Nyles mentioned something kind of gross regarding the effectiveness of fecal transplantation in those with Crohn’s disease. This reminded me of something that I hadn’t been tracking. It was the probiotics.
+Unfortunately, after a few months, I was getting depressed again. I initially chalked this up to my brain’s desire to return to homeostasis producing a negative feedback mechanism resulting in tolerance. I was rather disappointed. However, a month or so later, my mood began to improve again. I didn’t really understand why that happened. Then, my friend Nyles mentioned something kind of gross regarding the effectiveness of fecal transplantation in those with Crohn’s disease. This reminded me of something that I hadn’t been tracking. It was the probiotics.
 
 I had stopped taking them because I assumed they didn’t really do anything. Then, I happened to find another bottle of the probiotics in my desk drawer and randomly started taking them again. It turned out that my depressed mood occurred when I was not taking the probiotics. If QuantiModo had existed at the time, I would have noticed this much sooner.
 

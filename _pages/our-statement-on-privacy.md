@@ -1,7 +1,7 @@
 ---
 ID: 18470
 post_title: Our Statement On Privacy
-author: Daniel Feinberg
+author: mikepsinn
 post_date: 2015-10-13 16:04:14
 post_excerpt: ""
 layout: page

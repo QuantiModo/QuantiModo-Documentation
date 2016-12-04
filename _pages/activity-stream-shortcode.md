@@ -6,7 +6,7 @@ post_date: 2014-02-04 04:41:46
 post_excerpt: ""
 layout: page
 permalink: >
-  https://quantimo.do/web-app/activity-stream-shortcode/
+  https://quantimo.do/activity-stream-shortcode/
 published: true
 slide_template:
   - ""

@@ -1,7 +1,7 @@
 ---
 ID: 1147
 post_title: My Account
-author: ""
+author: mikepsinn
 post_date: 2014-02-01 13:49:25
 post_excerpt: ""
 layout: page

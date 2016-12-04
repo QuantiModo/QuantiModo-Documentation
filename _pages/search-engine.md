@@ -9,7 +9,7 @@ permalink: >
   https://quantimo.do/services/search-engine/
 published: true
 slide_template:
-  - ""
+  - default
 sbg_selected_sidebar:
   - 'a:1:{i:0;s:1:"0";}'
 sbg_selected_sidebar_replacement:
@@ -26,9 +26,11 @@ sbg_selected_sidebar_replacement:
 <h2>Universal Data, Smarter Data</h2>
 [/vc_column_text][vc_column_text]613 million people are currently tracking a health indicator. With the QuantiModo platform you can instantly invite anyone to participate in your study via social networks, crowd-funding platforms, email, and many other means. By bringing people together from all over the world, we create an enormous data pool. This allows people who may have rare diseases to be tracked together so larger cohort studies can easily be performed. Additionally larger geographically diverse data creates cleaner samples.
 
-We will also enable grouping of data among relatively homogenous groups of users stratified by their environmental, microbiomic, demographic, genomic and/or disease profiles.[/vc_column_text][vc_row_inner][vc_column_inner][kleo_button title="Get Started" href="https://admin.quantimo.do/register" target="_blank" style="custom" size="lg" icon="0" custom_background="#ff6e00" custom_text="#ffffff"][/vc_column_inner][/vc_row_inner][/vc_column][vc_column width="1/2"][vc_single_image image="19636" img_size="full"][/vc_column][/vc_row][vc_row text_align="center"][vc_column width="1/2"][vc_single_image image="19639" img_size="full"][/vc_column][vc_column width="1/2"][vc_column_text]
+We will also enable grouping of data among relatively homogenous groups of users stratified by their environmental, microbiomic, demographic, genomic and/or disease profiles.[/vc_column_text][vc_row_inner][vc_column_inner][kleo_button title="Get Started" href="https://app.quantimo.do/api/v2/apps" target="_blank" style="custom" size="lg" icon="0" custom_background="#ff6e00" custom_text="#ffffff"][/vc_column_inner][/vc_row_inner][/vc_column][vc_column width="1/2"][vc_single_image image="19636" img_size="full"][/vc_column][/vc_row][vc_row text_align="center"][vc_column width="1/2"][vc_single_image image="19639" img_size="full"][/vc_column][vc_column width="1/2"][vc_column_text]
 <h2>Providing Individualized Solutions</h2>
 [/vc_column_text][vc_column_text]
 <p style="text-align: center;">Currently depression trials are not just costly, but they have large barriers to entry that eliminate about 90% of people suffering from the disease. Often sufferers of ailments are left to chat-room discussions as their best means of procuring a remedy. Together we are bringing down the cost of research, and giving everyone equal access to its insights.</p>
 <p style="text-align: center;">Every member of the QuantiModo community is helping to alleviate not just their own health problems, but potentially those of other users. We take anonymously donated user data, and we group similar users together, allowing everyone to learn from one another. We have put this information into a search engine, so any user can simply search for their health concerns and receive our recommendations based on the influences we discover.</p>
 [/vc_column_text][/vc_column][/vc_row][vc_column width="1/2"][/vc_column][vc_column width="1/2"][/vc_column]
+
+<iframe src="https://app.quantimo.do/embeddable/?plugin=search-relationships&outcome=Overall%20Mood&commonOrUser=common" frameborder="0" width="100%" height="3000"></iframe>

@@ -1,7 +1,7 @@
 ---
 ID: 19168
 post_title: iOS Compatible Tracking Apps and Devices
-author: Daniel Feinberg
+author: mikepsinn
 post_date: 2015-10-22 15:45:02
 post_excerpt: ""
 layout: page

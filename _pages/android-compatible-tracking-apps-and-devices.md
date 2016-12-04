@@ -3,7 +3,7 @@ ID: 19182
 post_title: >
   Android Compatible Tracking Apps and
   Devices
-author: Daniel Feinberg
+author: mikepsinn
 post_date: 2015-10-22 16:00:09
 post_excerpt: ""
 layout: page

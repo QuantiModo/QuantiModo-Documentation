@@ -1,7 +1,7 @@
 ---
 ID: 6148
 post_title: Amazon
-author: ""
+author: mikepsinn
 post_date: 2014-07-06 03:45:39
 post_excerpt: ""
 layout: page

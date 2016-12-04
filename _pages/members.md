@@ -1,7 +1,7 @@
 ---
 ID: 8
 post_title: Members
-author: ""
+author: mikepsinn
 post_date: 2014-01-30 13:40:19
 post_excerpt: ""
 layout: page

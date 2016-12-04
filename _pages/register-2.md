@@ -5,7 +5,7 @@ author: mikepsinn
 post_date: 2014-02-02 10:48:21
 post_excerpt: ""
 layout: page
-permalink: https://quantimo.do/web-app/register-2/
+permalink: https://quantimo.do/register-2/
 published: true
 slide_template:
   - ""

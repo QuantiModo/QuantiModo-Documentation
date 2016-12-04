@@ -1,7 +1,7 @@
 ---
 ID: 9
 post_title: Groups
-author: ""
+author: mikepsinn
 post_date: 2014-01-30 13:48:08
 post_excerpt: ""
 layout: page

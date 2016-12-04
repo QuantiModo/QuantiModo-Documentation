@@ -1,7 +1,7 @@
 ---
 ID: 11
 post_title: Get Involved!
-author: ""
+author: mikepsinn
 post_date: 2013-06-07 06:34:35
 post_excerpt: ""
 layout: page

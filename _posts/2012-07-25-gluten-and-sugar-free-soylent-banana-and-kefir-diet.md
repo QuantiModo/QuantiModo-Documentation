@@ -3,7 +3,7 @@ ID: 6205
 post_title: >
   Gluten and Sugar-Free Soylent, Banana,
   and Kefir Diet
-author: ""
+author: mikepsinn
 post_date: 2012-07-25 18:24:25
 post_excerpt: >
   A cheap, easy to prepare, gluten-free,
@@ -30,6 +30,12 @@ vibe_breadcrumbs:
   - S
 vibe_prev_next:
   - H
+slide_template:
+  - ""
+sbg_selected_sidebar:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_replacement:
+  - 'a:1:{i:0;s:1:"0";}'
 ---
 It doesn't taste like much, but it's fast, easy, and doesn't trigger any intolerance issues (for me). Preparation was initially rather arduous, but I've modified my technique enough that it only takes about 5 minutes now.
 <h2>Ingredients for 3 Servings</h2>
@@ -83,13 +89,11 @@ Don't forget to take your Vitamin D and/or get some sunshine.
 <h1>Cost</h1>
 <p style="color: #555555;">This works out to around <strong>$2.90 per meal</strong>, assuming you take advantage of all the available savings (e.g. the Amazon Subscribe &amp; Save discount). Without those savings, it’s more like $3.41/meal.</p>
 
-<h1>Nutrient Totals</h1>
-<h1 style="color: #555555; text-align: left;"><img class="alignnone wp-image-6208 size-large" src="https://qm.wp.uploads.s3.amazonaws.com/uploads/2014/07/ScreenClip1-1024x406.png" alt="Soylent Nutrients" width="1024" height="406" /></h1>
 <h1>Safety</h1>
 <h3 style="color: #555555;"><strong style="font-style: inherit;">Potassium</strong></h3>
 <p style="color: #555555;"> The main risk of increasing your potassium intake is <a style="font-weight: inherit; font-style: inherit;" href="https://en.wikipedia.org/wiki/Hyperkalemia">hyperkalemia</a>, defined as a serum concentration greater than 5.0 mM. Above this level, you may be at risk for cardiac arrhythmia, which can be life-threatening. So read this section carefully.</p>
 <p style="color: #555555;">Who is at risk for hyperkalemia? Mainly people who have certain medical conditions (e.g. kidney disease, heart failure, type 1 diabetes), or who are taking certain medications (e.g. for hypertension). So if any of the conditions <a style="font-weight: inherit; font-style: inherit;" href="https://www.nap.edu/openbook.php?record_id=10925&amp;page=242">listed here</a> (last paragraph) or <a style="font-weight: inherit; font-style: inherit;" href="https://en.wikipedia.org/wiki/Hyperkalemia#Causes">here</a> describe you, don’t make changes to your potassium intake without medical supervision.</p>
-<p style="color: #555555;">Now, it’s true that even healthy people can develop acute hyperkalemia by taking massive doses of potassium supplements; the IOM report <a style="font-weight: inherit; font-style: inherit;" href="https://www.cookingfor20.com/2013/06/18/hacker-school-soylent-recipe/www.ncbi.nlm.nih.gov/pubmed/946541">cites</a> <a style="font-weight: inherit; font-style: inherit;" href="https://www.ncbi.nlm.nih.gov/pubmed/11762675">several</a> <a style="font-weight: inherit; font-style: inherit;" href="https://jama.jamanetwork.com/article.aspx?articleid=361214">cases</a> where people gave themselves hyperkalemia by taking dozens of 750 mg potassium chloride pills all at once. So, don’t do that – and don’t leave your potassium lying around where children might get into it.</p>
+<p style="color: #555555;">Now, it’s true that even healthy people can develop acute hyperkalemia by taking massive doses of potassium supplements; the IOM report <a style="font-weight: inherit; font-style: inherit;" href="https://www.ncbi.nlm.nih.gov/pubmed/946541">cites</a> <a style="font-weight: inherit; font-style: inherit;" href="https://www.ncbi.nlm.nih.gov/pubmed/11762675">several</a> <a style="font-weight: inherit; font-style: inherit;" href="https://jama.jamanetwork.com/article.aspx?articleid=361214">cases</a> where people gave themselves hyperkalemia by taking dozens of 750 mg potassium chloride pills all at once. So, don’t do that – and don’t leave your potassium lying around where children might get into it.</p>
 <p style="color: #555555;">But as long as you’re healthy and not stupidly taking giant doses, you should be perfectly fine. <a style="font-weight: inherit; font-style: inherit;" href="https://www.nap.edu/openbook.php?record_id=10925&amp;page=250">Many studies</a> have examined chronic high intake of supplemental potassium by healthy adults, at levels well above ours – all with <a style="font-weight: inherit; font-style: inherit;" href="https://www.nap.edu/openbook.php?record_id=10925&amp;page=248">zero cases</a> of hyperkalemia.</p>
 
 <h3 style="color: #555555;"><strong style="font-style: inherit;">Manganese</strong></h3>
