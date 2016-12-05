@@ -1,6 +1,6 @@
 ---
 ID: 20297
-post_title: Research Pricing
+post_title: Research Platform Pricing
 author: mikepsinn
 post_date: 2016-12-04 21:42:09
 post_excerpt: ""
