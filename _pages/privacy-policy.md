@@ -53,7 +53,6 @@ sbg_selected_sidebar:
 sbg_selected_sidebar_replacement:
   - 'a:1:{i:0;s:1:"0";}'
 ---
-<h2><span style="font-weight: 400;">Privacy Policy</span></h2>
 <span style="font-weight: 400;">QuantiModo, Inc. (“QuantiModo” or “We” or “Us”) is committed to protecting the privacy of users of the QuantiModo platform (the “Platform”) and the patient information they store and transmit through the Platform. This Privacy Policy explains the information that we collect through the Platform, how we use it, and how we protect the privacy and security of that information. By using the Platform to store and transmit information, you are signifying your agreement to this Privacy Policy. If you do not agree to any term of this Privacy Policy, you should not use the Platform or provide information to QuantiModo.</span>
 
 <span style="font-weight: 400;">In addition to this Privacy Policy, QuantiModo has adopted Terms of Use for the Platform that govern your use of the Platform and QuantiModo’s service. A copy of the Terms of Use is available at https://www.QuantiModo.com/terms.</span>
